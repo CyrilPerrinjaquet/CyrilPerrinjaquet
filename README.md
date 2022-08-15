@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Je m'apelle Cyril, apprenti en développement Web
+Musicien, guitariste, fan de rock et blues
+
 
 <!--
 **CyrilPerrinjaquet/CyrilPerrinjaquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
