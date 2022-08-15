@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Je m'apelle Cyril, apprenti en développement Web
+Je m'appelle Cyril, apprenti en développement Web
 Musicien, guitariste, fan de rock et blues
 
 
