@@ -2,7 +2,7 @@
 
 Je m'appelle Cyril, apprenti en développement Web
 Musicien, guitariste, fan de rock et blues
-
+Connu pour être un as du CSS avec un padding d'enfer
 
 <!--
 **CyrilPerrinjaquet/CyrilPerrinjaquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
