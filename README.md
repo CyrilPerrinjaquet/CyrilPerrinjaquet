@@ -1,12 +1,11 @@
+
+[![MasterHead]("C:\Users\Cyril Perrinjaquet\Desktop\Screenshot-1-1210x642.webp")]
 ### Hi there 👋
 
 Je m'appelle Cyril, apprenti en développement Web
 Musicien, guitariste, fan de rock et de blues
-[![MasterHead]("C:\Users\Cyril Perrinjaquet\Desktop\Screenshot-1-1210x642.webp")]
 <h3 align="center">A passionate developer from 📍 Switzerland</h3>
 (img align="right" alt="Coding" width="400" src="https://c.tenor.com/-TOtNfKnC5kAAAAM/queen-freddie-mercury.gif")
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrilperrinjaquet&label=Profile%20views&color=0e75b6&style=flat" alt="cyrilperrinjaquet" /> </p>
 
 - 🔭 I’m currently working on **Java project**
 
