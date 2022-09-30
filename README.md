@@ -2,8 +2,8 @@
 ![MasterHead](https://png.pngtree.com/template/20220505/ourmid/pngtree-coders-and-programmers-team-banner-image_1312415.jpg)  
 ### Hi there 👋
 
-Je m'appelle Cyril, apprenti en développement Web
-Musicien, guitariste, fan de rock et de blues
+Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien, guitariste, fan de rock, blues et Hardrock<br>
+<em>My name is Cyril, I am an apprentice in frontend developement, im also a musician, I play guitare and my favorites styles are Rock, Blues, and Hardrock</em> 
 <h3 align="center">A passionate developer from 📍 Switzerland</h3>
 
 <p><img align="right" alt="gif" src="https://github.com/CyrilPerrinjaquet/CyrilPerrinjaquet/blob/main/queen-freddie-mercury.gif" width="200" height="200" /></p>
