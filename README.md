@@ -6,7 +6,7 @@ Je m'appelle Cyril, apprenti en développement Web
 Musicien, guitariste, fan de rock et de blues
 <h3 align="center">A passionate developer from 📍 Switzerland</h3>
 
-<p><img align="right" alt="gif" src="https://github.com/CyrilPerrinjaquet/CyrilPerrinjaquet/commit/1f5c35baa5913754dface72739b61442c5c183e9" width="100" height="100" /></p>
+<p><img align="right" alt="gif" src="https://github.com/CyrilPerrinjaquet/CyrilPerrinjaquet/blob/main/queen-freddie-mercury.gif" width="200" height="200" /></p>
 
 - 🔭 I’m currently working on **Java project**
 
