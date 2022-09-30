@@ -5,7 +5,7 @@
 Je m'appelle Cyril, apprenti en développement Web
 Musicien, guitariste, fan de rock et de blues
 <h3 align="center">A passionate developer from 📍 Switzerland</h3>
-<img align="right" alt="queen" width="400" src="https://c.tenor.com/-TOtNfKnC5kAAAAM/queen-freddie-mercury.gif />
+<img align="right" alt="queen" width="100" src="https://c.tenor.com/-TOtNfKnC5kAAAAM/queen-freddie-mercury.gif" />
 
 - 🔭 I’m currently working on **Java project**
 
