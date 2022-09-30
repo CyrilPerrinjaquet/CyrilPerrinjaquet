@@ -17,7 +17,7 @@ Musicien, guitariste, fan de rock et de blues
 
 - ⚡ Fun fact : I have an excellent padding in CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30"  /> 
 
-<<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
