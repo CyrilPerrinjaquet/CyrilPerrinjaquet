@@ -1,11 +1,11 @@
 
-![MasterHead](https://c.tenor.com/-TOtNfKnC5kAAAAM/queen-freddie-mercury.gif)
+![MasterHead](https://previews.123rf.com/images/pikepicture/pikepicture2008/pikepicture200800514/152928235-front-end-development-minimal-infographic-web-banner-vector-front-end-it-sphere-html-and-css-code-in.jpg) 
 ### Hi there 👋
 
 Je m'appelle Cyril, apprenti en développement Web
 Musicien, guitariste, fan de rock et de blues
 <h3 align="center">A passionate developer from 📍 Switzerland</h3>
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/-TOtNfKnC5kAAAAM/queen-freddie-mercury.gif")
+<img align="right" alt="queen" width="400" src="https://c.tenor.com/-TOtNfKnC5kAAAAM/queen-freddie-mercury.gif />
 
 - 🔭 I’m currently working on **Java project**
 
