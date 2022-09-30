@@ -22,4 +22,4 @@ Musicien, guitariste, fan de rock et de blues
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrilperrinjaquet&show_icons=true&locale=en&layout=compact" alt="cyrilperrinjaquet" /></p>
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=cyrilperrinjaquet&show_icons=true&locale=en" alt="cyrilperrinjaquet" /></p>
+<p>&nbsp;<img width="350" align="rigth" src="https://github-readme-stats.vercel.app/api?username=cyrilperrinjaquet&show_icons=true&locale=en" alt="cyrilperrinjaquet" /></p>
