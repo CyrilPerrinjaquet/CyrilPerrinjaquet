@@ -21,8 +21,10 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h4 align="left">More things im currently learning</h4>
 <div id="badges" align="left">
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white&style=Flat" width="90" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&style=Flat" width="80" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=Flat" width="150" />
    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=Flat" width="78" />
+  
 </div>
 
 <p><img align="right" alt="gif" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="300" height="240" /></p>
