@@ -42,4 +42,3 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Here's my streak and most used languages 🔥</h2> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CyrilPerrinjaquet&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilPerrinjaquet)](https://github.com/anuraghazra/github-readme-stats)
