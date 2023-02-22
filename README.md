@@ -37,8 +37,6 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 - 💬 Ask me about **Blues, Rock, and Hardrock**
 
-- 📫 How to reach me **cyrilp.perso@gmail.com**
-
 <h2>Here's my streak🔥</h2> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CyrilPerrinjaquet&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
