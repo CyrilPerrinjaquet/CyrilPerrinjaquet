@@ -31,7 +31,7 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 <h2>About me 🔭</h2>
 
-- 🔭 I’m currently working on **Pure Javascript**
+- 🔭 I’m currently working on **a pokedex project (you can go see it in the repo)**
 
 - 🌱 I’m currently learning **HTML, CSS, Java but mainly Javascript**
 
