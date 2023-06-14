@@ -23,9 +23,9 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 <h2>About me 🔭</h2>
 
-- 🔭 I’m currently working on **a pokedex project (you can go see it in the repo)**
+- 🔭 I’m currently working on **a React JS project**
 
-- 🌱 I’m currently learning **HTML, CSS, Java but mainly Javascript**
+- 🌱 I’m currently learning **HTML, CSS, Java but mainly Javascript, using the ReactJS library**
 
 - 💬 Ask me about **Blues, Rock, and Hardrock**
 
