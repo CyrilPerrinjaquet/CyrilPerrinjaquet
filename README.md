@@ -27,9 +27,9 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 - 🔭 I’m currently working on a **flask/python project**
 
-- 🌱 I’m currently learning **HTML, CSS, Java but mainly Javascript, using the ReactJS library**
+- 🌱 I’m currently learning **Javascript, using the ReactJS library**
 
-- 💬 Ask me about **Blues, Rock, and Hardrock**
+- 💬 Ask me about **Stoicism, music and personal development**
 
 <h2>Here's my streak🔥</h2> 
 
