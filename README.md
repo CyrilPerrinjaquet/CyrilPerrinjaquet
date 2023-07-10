@@ -11,7 +11,6 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 <h4 align="left">Languages</h4>
 <div id="badges" align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width=90 />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="80" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="132" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="90" />
@@ -19,6 +18,9 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="70" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="92" />
 </div>
+
+<h4 align="left">Libraries</h4>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width=90 />
 
 <p><img align="right" alt="gif" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="300" height="240" /></p>
 
