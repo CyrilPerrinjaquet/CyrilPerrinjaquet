@@ -7,7 +7,7 @@
 
 Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien, guitariste, fan de rock, blues et Hardrock<br>
 <em>My name is Cyril, I am an apprentice in frontend developement, im also a musician, I play guitare and my favorites styles are Rock, Blues, and Hardrock</em> 
-<h3 align="center">A passionate developer from 📍 Switzerland</h3>
+<h3 align="center">A passionate developer from Switzerland 📍</h3>
 
 <h4 align="left">Languages</h4>
 <div id="badges" align="left">
