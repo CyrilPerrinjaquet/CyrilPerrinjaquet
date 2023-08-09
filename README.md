@@ -33,4 +33,4 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 <h2>Here's my streak🔥</h2> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CyrilPerrinjaquet&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CyrilPerrinjaquet)](https://git.io/streak-stats)
