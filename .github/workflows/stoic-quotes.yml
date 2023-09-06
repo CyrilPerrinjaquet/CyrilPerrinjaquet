@@ -1,0 +1,35 @@
+name: Daily Stoic Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Fetch Stoic Quote
+      run: |
+        QUOTE=$(curl -s https://stoic-quotes.com/api/quote)
+        echo "$QUOTE" > stoic_quote.txt
+
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "CyrilPerrinjaquet"
+        git config user.email "cyrilp.perso@gmail.com"
+        git add stoic_quote.txt
+        git commit -m "Update Stoic Quote"
+        git push --force origin HEAD:main
+
+    - name: Update README
+      run: |
+        ACCESS_TOKEN="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"
+        REPO="CyrilPerrinjaquet/CyrilPerrinjaquet"
+        FILE="README.md"
+        BRANCH="main"
+
+        curl -H "Authorization: token $ACCESS_TOKEN" -X PUT -d "$(cat stoic_quote.txt)" "https://api.github.com/repos/$REPO/contents/$FILE?ref=$BRANCH"
