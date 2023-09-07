@@ -17,7 +17,7 @@ jobs:
         run: |
           # Use a curl or wget command to fetch the Stoic quote JSON from the API.
           # Replace the URL with the actual API endpoint.
-          quote=$(curl -s https://stoicquotesapi.com/api/v1/quote/random)
+          quote=$(curl -s https://stoic-quotes.com/api/quote)
 
           # Extract the quote and author from the JSON response.
           quote_text=$(echo "$quote" | jq -r '.text')
@@ -39,10 +39,10 @@ jobs:
           echo "$new_readme_content" > README.md
 
         # Commit and push the changes back to the repository.
-        - name: Commit and Push Changes
-          run: |
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add README.md
-            git commit -m "Update README with a new Stoic quote"
-            git push
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "cyrilp.perso@gmail.com"
+          git config --local user.name "CyrilPerrinjaquet"
+          git add README.md
+          git commit -m "Update README with a new Stoic quote"
+          git push
