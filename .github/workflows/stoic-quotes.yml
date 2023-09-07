@@ -1,35 +1,48 @@
-name: Daily Stoic Quote
+name: Fetch Stoic Quote and Update README
 
 on:
   schedule:
     - cron: '0 0 * * *'
-
+   
 jobs:
-  update-readme:
+  fetch-quote:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Fetch Stoic Quote
-      run: |
-        QUOTE=$(curl -s https://stoic-quotes.com/api/quote)
-        echo "$QUOTE" > stoic_quote.txt
+      - name: Fetch Stoic Quote
+        id: fetch-quote
+        run: |
+          # Use a curl or wget command to fetch the Stoic quote JSON from the API.
+          # Replace the URL with the actual API endpoint.
+          quote=$(curl -s https://stoicquotesapi.com/api/v1/quote/random)
 
-    - name: Commit and Push Changes
-      run: |
-        git config user.name "CyrilPerrinjaquet"
-        git config user.email "cyrilp.perso@gmail.com"
-        git add stoic_quote.txt
-        git commit -m "Update Stoic Quote"
-        git push --force origin HEAD:main
+          # Extract the quote and author from the JSON response.
+          quote_text=$(echo "$quote" | jq -r '.text')
+          quote_author=$(echo "$quote" | jq -r '.author')
 
-    - name: Update README
-      run: |
-        ACCESS_TOKEN="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"
-        REPO="CyrilPerrinjaquet/CyrilPerrinjaquet"
-        FILE="README.md"
-        BRANCH="main"
+          # Store the quote and author as output variables.
+          echo "::set-output name=quote_text::$quote_text"
+          echo "::set-output name=quote_author::$quote_author"
 
-        curl -H "Authorization: token $ACCESS_TOKEN" -X PUT -d "$(cat stoic_quote.txt)" "https://api.github.com/repos/$REPO/contents/$FILE?ref=$BRANCH"
+      - name: Update README
+        run: |
+          # Read the current README.md file.
+          readme_content=$(cat README.md)
+
+          # Replace a placeholder in the README with the fetched quote.
+          new_readme_content="${readme_content//<!-- STOIC_QUOTE -->/<p>\"${{ steps.fetch-quote.outputs.quote_text }}\" - ${{ steps.fetch-quote.outputs.quote_author }}</p>}"
+
+          # Overwrite the README.md file with the updated content.
+          echo "$new_readme_content" > README.md
+
+        # Commit and push the changes back to the repository.
+        - name: Commit and Push Changes
+          run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add README.md
+            git commit -m "Update README with a new Stoic quote"
+            git push
