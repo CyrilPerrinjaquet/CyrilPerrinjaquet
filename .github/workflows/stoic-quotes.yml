@@ -2,7 +2,7 @@ name: Fetch Stoic Quote and Update README
 
 on:
   schedule:
-    - cron: 0 12 * * *
+    - cron: '0 0 * * *'
    
 jobs:
   fetch-quote:
