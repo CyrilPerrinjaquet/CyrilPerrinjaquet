@@ -33,4 +33,4 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 <h2>Daily Stoic Quote</h2>
 
-<!-- STOIC_QUOTE -->
+<p>"Very little is needed for everything to be upset and ruined, only a slight lapse in reason." - Epictetus</p>
