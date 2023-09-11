@@ -43,6 +43,7 @@ jobs:
         run: |
           git config --local user.email "cyrilp.perso@gmail.com"
           git config --local user.name "CyrilPerrinjaquet"
+          git status
           git add README.md
           git commit -m "Update README with a new Stoic quote"
           git push
