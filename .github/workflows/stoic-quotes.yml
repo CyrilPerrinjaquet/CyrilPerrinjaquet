@@ -2,8 +2,8 @@ name: Fetch Stoic Quote and Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-   
+    - cron: '0 0 * * *'  # Schedule it to run every day at 10 AM (UTC)
+
 jobs:
   fetch-quote:
     runs-on: ubuntu-latest
@@ -17,7 +17,7 @@ jobs:
         run: |
           # Use a curl or wget command to fetch the Stoic quote JSON from the API.
           # Replace the URL with the actual API endpoint.
-          quote=$(curl -s https://stoic-quotes.com/api/quote)
+          quote=$(curl -s https://stoicquotesapi.com/api/v1/quote/random)
 
           # Extract the quote and author from the JSON response.
           quote_text=$(echo "$quote" | jq -r '.text')
@@ -27,23 +27,21 @@ jobs:
           echo "::set-output name=quote_text::$quote_text"
           echo "::set-output name=quote_author::$quote_author"
 
-      - name: Update README
+      - name: Append Stoic Quote to README
         run: |
-          # Read the current README.md file.
-          readme_content=$(cat README.md)
+          # Fetch the Stoic quote and author as before
+          quote_text="${{ steps.fetch-quote.outputs.quote_text }}"
+          quote_author="${{ steps.fetch-quote.outputs.quote_author }}"
 
-          # Replace a placeholder in the README with the fetched quote.
-          new_readme_content="${readme_content//<!-- STOIC_QUOTE -->/<p>\"${{ steps.fetch-quote.outputs.quote_text }}\" - ${{ steps.fetch-quote.outputs.quote_author }}</p>}"
+          # Create the HTML code for the quote
+          quote_html="<p>\"${quote_text}\" - ${quote_author}</p>"
 
-          # Overwrite the README.md file with the updated content.
-          echo "$new_readme_content" > README.md
+          # Use sed to find the placeholder and append the quote below it
+          sed -i '/<!-- STOIC_QUOTE -->/a \'"$quote_html"'' README.md
 
-        # Commit and push the changes back to the repository.
-      - name: Commit and Push Changes
-        run: |
+          # Commit and push the changes back to the repository
           git config --local user.email "cyrilp.perso@gmail.com"
           git config --local user.name "CyrilPerrinjaquet"
-          git status
           git add README.md
-          git commit -m "Update README with a new Stoic quote"
+          git commit -m "Append a new Stoic quote to README"
           git push
