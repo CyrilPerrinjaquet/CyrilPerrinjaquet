@@ -34,3 +34,4 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
+<p>"Take away thy opinion, and then there is taken away the complaint, “I have been harmed.” Take away the complaint, “I have been harmed,” and the harm is taken away." - Marcus Aurelius</p>
