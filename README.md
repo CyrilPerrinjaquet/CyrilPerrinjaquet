@@ -34,4 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
+<p>"I have never wished to cater to the crowd; for what I know, they do not approve, and what they approve, I do not know." - Seneca</p>
 <p>"Take away thy opinion, and then there is taken away the complaint, “I have been harmed.” Take away the complaint, “I have been harmed,” and the harm is taken away." - Marcus Aurelius</p>
