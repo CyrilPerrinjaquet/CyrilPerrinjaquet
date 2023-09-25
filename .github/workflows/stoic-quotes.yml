@@ -36,9 +36,8 @@ jobs:
           # Create the HTML code for the new quote
           new_quote_html="<p>\"${quote_text}\" - ${quote_author}</p>"
 
-          # Use sed to find and replace the previous Stoic quote in the README
-          awk '/<!-- STOIC_QUOTE -->/ { p=1; print; print new_quote_html; next } p && /<!-- STOIC_QUOTE_END -->/ { p=0 } !p' README.md > README.md.new
-          mv README.md.new README.md
+          # Use sed to replace the previous Stoic quote section
+          sed -i -e "/<!-- STOIC_QUOTE -->/,/<!-- STOIC_QUOTE_END -->/c\<!-- STOIC_QUOTE -->\n${new_quote_html}\n<!-- STOIC_QUOTE_END -->" README.md
 
           # Commit and push the changes back to the repository
           git config --local user.email "cyrilp.perso@gmail.com"
