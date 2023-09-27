@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-
+<p>"Whatever can happen at any time can happen today." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
