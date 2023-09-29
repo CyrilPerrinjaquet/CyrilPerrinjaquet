@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"All things fade into the storied past, and in a little while are shrouded in oblivion." - Marcus Aurelius</p>
+<p>"Avoid banquets which are given by strangers and by ignorant persons." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
