@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Avoid banquets which are given by strangers and by ignorant persons." - Epictetus</p>
+<p>"People find particular things, however, frightening; and it's when someone is able to threaten or entice us with those that the man himself becomes frightening." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
