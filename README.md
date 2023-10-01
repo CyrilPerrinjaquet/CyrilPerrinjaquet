@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"People find particular things, however, frightening; and it's when someone is able to threaten or entice us with those that the man himself becomes frightening." - Epictetus</p>
+<p>"No delicate breeze brings comfort with icy breath of wind to the hearts which pant on the flames." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
