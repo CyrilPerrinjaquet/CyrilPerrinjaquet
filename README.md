@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No delicate breeze brings comfort with icy breath of wind to the hearts which pant on the flames." - Seneca</p>
+<p>"Alexander the Great and his mule driver both died and the same thing happened to both." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
