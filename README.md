@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Alexander the Great and his mule driver both died and the same thing happened to both." - Marcus Aurelius</p>
+<p>"A gift consists not in what is done or given, but in the intention of the giver or doer." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
