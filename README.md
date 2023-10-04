@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A gift consists not in what is done or given, but in the intention of the giver or doer." - Seneca</p>
+<p>"But learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
