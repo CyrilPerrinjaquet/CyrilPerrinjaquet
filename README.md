@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"But learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die." - Seneca</p>
+<p>"Man, what are you talking about? Me in chains? You may fetter my leg but my will, not even Zeus himself can overpower." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
