@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Yes, you can—if you do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable." - Marcus Aurelius</p>
+<p>"No man is free who is not master of himself." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
