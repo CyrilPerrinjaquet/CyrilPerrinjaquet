@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Death. The end of sense-perception, of being controlled by our emotions, of mental activity, of enslavement to our bodies." - Marcus Aurelius</p>
+<p>"How many of them who came into the world at the same time when I did, are already gone out of it? LII." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
