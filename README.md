@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How many of them who came into the world at the same time when I did, are already gone out of it? LII." - Marcus Aurelius</p>
+<p>"There will always be causes for anxiety, whether due to prosperity or to wretchedness. Life will be driven on through a succession of preoccupations: we shall always long for leisure, but never enjoy it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
