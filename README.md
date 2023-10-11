@@ -34,5 +34,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There will always be causes for anxiety, whether due to prosperity or to wretchedness. Life will be driven on through a succession of preoccupations: we shall always long for leisure, but never enjoy it." - Seneca</p>
+<p>"Not to be offended with other men's liberty of speech, and to apply myself unto philosophy." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
