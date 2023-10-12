@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Not to be offended with other men's liberty of speech, and to apply myself unto philosophy." - Marcus Aurelius</p>
+<p>"No man is so faint-hearted that he would rather hang in suspense for ever than drop once for all." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
