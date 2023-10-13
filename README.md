@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No man is so faint-hearted that he would rather hang in suspense for ever than drop once for all." - Seneca</p>
+<p>"Shall I tell you what philosophy holds out to humanity? Counsel." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
