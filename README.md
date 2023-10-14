@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Shall I tell you what philosophy holds out to humanity? Counsel." - Seneca</p>
+<p>"To consort with the crowd is harmful; there is no person who does not make some vice attractive to us, or stamp it upon us, or taint us unconsciously therewith." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
