@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig." - Marcus Aurelius</p>
+<p>"So it is: we are not given a short life but we make it short, and we are not Ill-supplied but wasteful of it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
