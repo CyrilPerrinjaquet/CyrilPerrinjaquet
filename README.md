@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Who, then, is the invincible human being? One who can be disconcerted by nothing that lies outside the sphere of choice." - Epictetus</p>
+<p>"You fear everything as mortals but desire to have everything as gods." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
