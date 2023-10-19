@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You fear everything as mortals but desire to have everything as gods." - Seneca</p>
+<p>"I shall expose and reopen all the wounds which have already healed." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
