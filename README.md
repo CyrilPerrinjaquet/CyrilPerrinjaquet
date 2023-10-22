@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is so, my dear Lucilius; there are a few men whom slavery holds fast, but there are many more who hold fast to slavery." - Seneca</p>
+<p>"Where you arrive does not matter so much as what sort of person you are when you arrive there." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
