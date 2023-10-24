@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you would cure anger, do not feed it. Say to yourself: 'I used to be angry every day; then every other day; now only every third or fourth day.' When you reach thirty days offer a sacrifice of thanksgiving to the gods." - Epictetus</p>
+<p>"The impediment to action advances action. What stands in the way becomes the way." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
