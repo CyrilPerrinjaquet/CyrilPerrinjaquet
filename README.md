@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The impediment to action advances action. What stands in the way becomes the way." - Marcus Aurelius</p>
+<p>"Some men have shrunk so far into dark corners that objects in bright daylight seem quite blurred to them.’ A." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
