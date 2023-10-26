@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Some men have shrunk so far into dark corners that objects in bright daylight seem quite blurred to them.’ A." - Seneca</p>
+<p>"To accuse others for one's own misfortune is a sign of want of education. To accuse oneself shows that one's education has begun. To accuse neither oneself nor others shows that one's education is complete." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
