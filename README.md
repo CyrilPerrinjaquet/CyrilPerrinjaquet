@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To accuse others for one's own misfortune is a sign of want of education. To accuse oneself shows that one's education has begun. To accuse neither oneself nor others shows that one's education is complete." - Epictetus</p>
+<p>"That is the way things are weighed and disagreements settled — when standards are established. Philosophy aims to test and set such standards. And the wise man is advised to make use of their findings right way." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
