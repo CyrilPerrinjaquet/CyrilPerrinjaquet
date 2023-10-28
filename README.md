@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"That is the way things are weighed and disagreements settled — when standards are established. Philosophy aims to test and set such standards. And the wise man is advised to make use of their findings right way." - Epictetus</p>
+<p>"Every man is worth just so much as the things about which he busies himself." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
