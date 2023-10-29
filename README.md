@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every man is worth just so much as the things about which he busies himself." - Marcus Aurelius</p>
+<p>"Whatever happens, happens rightly. Watch closely, and you will find this true. In the succession of events there is not mere sequence alone, but an order that is just right, as from the hand of one who dispense to their due." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
