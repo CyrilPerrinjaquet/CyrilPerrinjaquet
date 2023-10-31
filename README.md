@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"His last words heard on earth came after he'd let off a louder noise from his easiest channel of communication: 'Oh my! I think I've shit myself.' For all I know, he did. He certainly shat on everything else." - Seneca</p>
+<p>"To be everywhere, is to be no where at all." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
