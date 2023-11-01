@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To be everywhere, is to be no where at all." - Seneca</p>
+<p>"Above all, my dear Lucilius, make this your business: learn how to feel joy." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
