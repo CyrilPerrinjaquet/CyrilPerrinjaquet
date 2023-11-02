@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Above all, my dear Lucilius, make this your business: learn how to feel joy." - Seneca</p>
+<p>"Give thyself time to learn something new and good, and cease to be whirled around." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
