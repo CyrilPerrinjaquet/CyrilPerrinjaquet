@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Give thyself time to learn something new and good, and cease to be whirled around." - Marcus Aurelius</p>
+<p>"What we cannot bear removes us from life; what remains can be borne." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
