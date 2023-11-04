@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What we cannot bear removes us from life; what remains can be borne." - Marcus Aurelius</p>
+<p>"Reading of many books is distraction." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
