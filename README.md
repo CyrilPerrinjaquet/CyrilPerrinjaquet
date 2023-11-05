@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Reading of many books is distraction." - Seneca</p>
+<p>"The fool's life is empty of gratitude and full of fears; its course lies wholly toward the future." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
