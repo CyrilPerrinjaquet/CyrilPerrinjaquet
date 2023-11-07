@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"All things fade into the storied past, and in a little while are shrouded in oblivion." - Marcus Aurelius</p>
+<p>"Man, what are you talking about? Me in chains? You may fetter my leg but my will, not even Zeus himself can overpower." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
