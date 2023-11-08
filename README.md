@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Man, what are you talking about? Me in chains? You may fetter my leg but my will, not even Zeus himself can overpower." - Epictetus</p>
+<p>"To know how many are jealous of you, count your admirers." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
