@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Men do not care how nobly they live, but only for how long, although it is within the reach of every man to live nobly, but within no man’s power to live long." - Seneca</p>
+<p>"Living is the least important activity of the preoccupied man." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
