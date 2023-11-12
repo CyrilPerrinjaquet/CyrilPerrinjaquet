@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We ought frequently to remind ourselves that we must love the things of this life as we would what is shortly to leave us, or indeed in the very act of leaving us." - Seneca</p>
+<p>"Prosperity does not elevate the sage and adversity does not depress him. For he has always made the effort to rely as much as possible on himself and to derive all delight from himself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
