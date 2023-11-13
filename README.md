@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Prosperity does not elevate the sage and adversity does not depress him. For he has always made the effort to rely as much as possible on himself and to derive all delight from himself." - Seneca</p>
+<p>"Resistance is vain in any case; it only leads to useless struggle while inviting grief and sorrow." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
