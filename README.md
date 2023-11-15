@@ -21,7 +21,7 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 <h2>About me 🔭</h2>
 
-- 🔭 I’m currently working on **Epic React course**
+- 🔭 I’m currently working on **my company app**
 
 - 🌱 I’m currently learning **Javascript, using the ReactJS library**
 
