@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Therefore it is better to conquer our grief than to deceive it. For if it has withdrawn, being merely beguiled by pleasures and preoccupations, it starts up again and from its very respite gains force to savage us." - Seneca</p>
+<p>"Death. The end of sense-perception, of being controlled by our emotions, of mental activity, of enslavement to our bodies." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
