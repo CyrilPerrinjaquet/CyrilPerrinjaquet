@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If what you have seems insufficient to you, then though you possess the world, you will yet be miserable." - Seneca</p>
+<p>"When a man is proud because he can understand and explain the writings of Chrysippus, say to yourself, if Chrysippus had not written obscurely, this man would have had nothing to be proud of." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
