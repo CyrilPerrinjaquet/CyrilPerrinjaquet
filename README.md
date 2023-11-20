@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When a man is proud because he can understand and explain the writings of Chrysippus, say to yourself, if Chrysippus had not written obscurely, this man would have had nothing to be proud of." - Epictetus</p>
+<p>"To how much envy and fraud and hypocrisy the state of a tyrannous king is subject unto, and how they who are commonly called, i.e. nobly born, are in some sort incapable, or void of natural affection." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
