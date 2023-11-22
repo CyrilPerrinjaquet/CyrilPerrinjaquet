@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How ridiculous and unrealistic is the man who is astonished at anything that happens in life." - Marcus Aurelius</p>
+<p>"If a man has reported to you, that a certain person speaks ill of you, do not make any defense to what has been told you: but reply, The man did not know the rest of my faults, for he would not have mentioned these only." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
