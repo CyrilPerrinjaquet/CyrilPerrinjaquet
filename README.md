@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Adapt yourself to the things among which your lot has been cast and love sincerely the fellow creatures with whom destiny has ordained that you shall live." - Marcus Aurelius</p>
+<p>"Is an emerald suddenly flawed if no one admires it?" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
