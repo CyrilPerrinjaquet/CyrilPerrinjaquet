@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"First say to yourself what you would be, and then do what you have to do." - Epictetus</p>
+<p>"Truth often harms the one who digs it up." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
