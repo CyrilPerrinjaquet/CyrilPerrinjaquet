@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Truth often harms the one who digs it up." - Seneca</p>
+<p>"Consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
