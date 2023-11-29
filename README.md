@@ -25,7 +25,7 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 
 - 🌱 I’m currently learning **Javascript, using the ReactJS library**
 
-- 💬 Ask me about **Stoicism, Music and BodyBuilding**
+- 💬 Ask me about **Music and BodyBuilding**
 
 <h2>Daily Stoic Quote</h2>
 
