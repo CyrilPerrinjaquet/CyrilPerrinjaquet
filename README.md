@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Restless people often pretend to be calm." - Seneca</p>
+<p>"We cease to be so angry once we cease to be so hopeful." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
