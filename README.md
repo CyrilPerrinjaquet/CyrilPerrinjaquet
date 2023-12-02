@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We cease to be so angry once we cease to be so hopeful." - Seneca</p>
+<p>"We are not disturbed by what happens to us, but by our thoughts about what happens to us." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
