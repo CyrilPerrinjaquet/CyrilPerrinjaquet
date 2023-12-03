@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We are not disturbed by what happens to us, but by our thoughts about what happens to us." - Epictetus</p>
+<p>"Many pursue no fixed goal, but are tossed about in ever-changing designs by a fickleness which is shifting, inconstant and never satisfied with itself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
