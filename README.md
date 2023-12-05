@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Thus far, you have indeed not been sluggish, but you must quicken your pace. Much toil remains; to confront it, you must yourself lavish all your waking hours, and all your efforts, if you wish the result to be accomplished." - Seneca</p>
+<p>"The grief that has been conquered by reason is calmed for ever." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
