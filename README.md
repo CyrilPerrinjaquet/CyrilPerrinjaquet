@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The grief that has been conquered by reason is calmed for ever." - Seneca</p>
+<p>"It is more necessary for the soul to be cured than the body; for it is better to die than to live badly." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
