@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is more necessary for the soul to be cured than the body; for it is better to die than to live badly." - Epictetus</p>
+<p>"What makes for freedom and fluency in the practice of writing? Knowledge of how to write. The same goes for the practice of playing an instrument. It follows that, in the conduct of life, there must be a science to living well." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
