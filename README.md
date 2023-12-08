@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What makes for freedom and fluency in the practice of writing? Knowledge of how to write. The same goes for the practice of playing an instrument. It follows that, in the conduct of life, there must be a science to living well." - Epictetus</p>
+<p>"Believe me if you consult philosophy she will persuade you not to lit so long at your counting desk." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
