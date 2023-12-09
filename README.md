@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Believe me if you consult philosophy she will persuade you not to lit so long at your counting desk." - Seneca</p>
+<p>"Love that only which happens to thee and is spun with the thread of thy destiny. For what is more suitable? In." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
