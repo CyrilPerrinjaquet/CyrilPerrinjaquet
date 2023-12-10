@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Love that only which happens to thee and is spun with the thread of thy destiny. For what is more suitable? In." - Marcus Aurelius</p>
+<p>"When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love ..." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
