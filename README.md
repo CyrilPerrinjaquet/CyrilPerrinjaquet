@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love ..." - Marcus Aurelius</p>
+<p>"What shall we not go in fear of if we fear that which cowardice itself has chosen for its refuge?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
