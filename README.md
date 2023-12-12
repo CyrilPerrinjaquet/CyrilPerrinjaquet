@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What shall we not go in fear of if we fear that which cowardice itself has chosen for its refuge?" - Seneca</p>
+<p>"For how little have we lost, when the two finest things of all will accompany us wherever we go, universal nature and our individual virtue." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
