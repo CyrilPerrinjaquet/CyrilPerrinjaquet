@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For how little have we lost, when the two finest things of all will accompany us wherever we go, universal nature and our individual virtue." - Seneca</p>
+<p>"Those proficient praise no one, blame no one, and accuse no one. They say nothing concerning their self as being anybody or knowing anything." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
