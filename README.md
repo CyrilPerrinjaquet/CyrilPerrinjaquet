@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Death is a cessation of the impressions through the senses, and of the pulling of the strings that move the appetites, and of the discursive movements of the thoughts, and of the service to the flesh." - Marcus Aurelius</p>
+<p>"He suffers more than necessary, who suffers before it is necessary." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
