@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He suffers more than necessary, who suffers before it is necessary." - Seneca</p>
+<p>"While we are postponing, life speeds by." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
