@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"While we are postponing, life speeds by." - Seneca</p>
+<p>"It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
