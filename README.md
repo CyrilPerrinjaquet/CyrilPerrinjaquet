@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own." - Marcus Aurelius</p>
+<p>"But fortunate means that a man has assigned to himself a good fortune: and a good fortune is good disposition of the soul, good emotions, good actions." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
