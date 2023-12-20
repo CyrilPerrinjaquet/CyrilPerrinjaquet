@@ -30,5 +30,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Casting therefore all other things aside, keep thyself to these few, and remember withal that no man properly can be said to live more than that which is now present, which is but a moment of time." - Marcus Aurelius</p>
+<p>"Whatever happens at all happens as it should; you will find this true, if you watch narrowly." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
