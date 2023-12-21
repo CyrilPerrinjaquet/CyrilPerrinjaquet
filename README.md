@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Whatever happens at all happens as it should; you will find this true, if you watch narrowly." - Marcus Aurelius</p>
+<p>"It is more civilized to make fun of life than to bewail it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
