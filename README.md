@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is more civilized to make fun of life than to bewail it." - Seneca</p>
+<p>"We are mistaken when we look forward to death; the major portion of death has already passed, Whatever years be behind us are in death's hands." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
