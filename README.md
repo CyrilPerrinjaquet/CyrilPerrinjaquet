@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We are mistaken when we look forward to death; the major portion of death has already passed, Whatever years be behind us are in death's hands." - Seneca</p>
+<p>"That advocate is lionized throughout the whole forum, and fills all the place with a great crowd that stretches farther than he can be heard, yet he says: “When will vacation time come?”" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
