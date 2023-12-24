@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"That advocate is lionized throughout the whole forum, and fills all the place with a great crowd that stretches farther than he can be heard, yet he says: “When will vacation time come?”" - Seneca</p>
+<p>"You can tell the character of every man when you see how he receives praise.”   Difficult." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
