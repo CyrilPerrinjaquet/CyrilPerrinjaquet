@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You can tell the character of every man when you see how he receives praise.”   Difficult." - Seneca</p>
+<p>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future too." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
