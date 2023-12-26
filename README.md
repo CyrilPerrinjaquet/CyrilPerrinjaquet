@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future too." - Marcus Aurelius</p>
+<p>"On the occasion of every accident that befalls you, remember to turn to yourself and inquire what power you have for turning it to use." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
