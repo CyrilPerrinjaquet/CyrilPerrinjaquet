@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Look at the past—empire succeeding empire—and from that, extrapolate the future: the same thing. No escape from the rhythm of events. Which is why observing life for forty years is as good as a thousand. Would you really see anything new?" - Marcus Aurelius</p>
+<p>"Strength and honor." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
