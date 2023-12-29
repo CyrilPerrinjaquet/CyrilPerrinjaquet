@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Strength and honor." - Marcus Aurelius</p>
+<p>"The day which we fear as our last is but the birthday of eternity." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
