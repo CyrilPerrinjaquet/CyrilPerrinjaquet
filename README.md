@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The day which we fear as our last is but the birthday of eternity." - Seneca</p>
+<p>"Take the shortest route, the one that nature planned—to speak and act in the healthiest way. Do that, and be free of pain and stress, free of all calculation and pretension." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
