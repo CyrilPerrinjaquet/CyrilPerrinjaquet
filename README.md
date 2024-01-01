@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You are a little soul carrying a dead body, as Epictetus said." - Epictetus</p>
+<p>"For manliness gains much strength by being challenged." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
