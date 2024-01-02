@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For manliness gains much strength by being challenged." - Seneca</p>
+<p>"Adopt new habits yourself: consolidate your principles by putting them into practice." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
