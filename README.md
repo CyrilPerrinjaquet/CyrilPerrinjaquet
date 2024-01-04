@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Casting aside other things, hold to the precious few; and besides bear in mind that every man lives only the present, which is an indivisible point, and that all the rest of his life is either past or is uncertain." - Marcus Aurelius</p>
+<p>"He will live ill who does not know how to die well." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
