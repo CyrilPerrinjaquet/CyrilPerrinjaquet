@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He will live ill who does not know how to die well." - Seneca</p>
+<p>"Anyone who likes may make things easier for himself by viewing them with equanimity." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
