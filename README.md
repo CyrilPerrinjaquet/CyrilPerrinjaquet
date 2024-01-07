@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What is this, fundamentally? What is its nature and substance, its reason for being? What is it doing in the world? How long is it here for?" - Marcus Aurelius</p>
+<p>"What really ruins our character is the fact that none of us looks back over his life." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
