@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What really ruins our character is the fact that none of us looks back over his life." - Seneca</p>
+<p>"The best compromise between love and good sense is both to feel longing and to conquer it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
