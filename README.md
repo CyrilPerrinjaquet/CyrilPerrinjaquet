@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The best compromise between love and good sense is both to feel longing and to conquer it." - Seneca</p>
+<p>"Consider first, man, what the matter is, and what your own nature is able to bear. If you would be a wrestler, consider your shoulders, your back, your thighs; for different persons are made for different things." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
