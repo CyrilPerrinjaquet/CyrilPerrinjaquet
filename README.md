@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If our intellectual part is common, the reason also, in respect of which we are rational beings, is common: if this is so, common also is the reason which commands us what to do, and what not to do." - Marcus Aurelius</p>
+<p>"Believe me if you consult philosophy she will persuade you not to lit so long at your counting desk." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
