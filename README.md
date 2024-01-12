@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Believe me if you consult philosophy she will persuade you not to lit so long at your counting desk." - Seneca</p>
+<p>"Even chance is not divorced from nature, from the inweaving and and enfolding of things governed by Providence." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
