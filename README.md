@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you are pained by external things, it is not they that disturb you, but your own judgement of them. And it is in your power to wipe out that judgement now." - Marcus Aurelius</p>
+<p>"He was taught to dress plainly and to live simply, to avoid all softness and luxury." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
