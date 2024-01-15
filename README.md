@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien,
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He was taught to dress plainly and to live simply, to avoid all softness and luxury." - Marcus Aurelius</p>
+<p>"You live as if you will live forever, no care for your mortality ever enters your head, you pay no mind to how much time has already gone by." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
