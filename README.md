@@ -1,8 +1,8 @@
 
 <h2 align="center">Hi there 👋</h2>
 
-Je m'appelle Cyril, apprenti en développement Web et je suis aussi un musicien, guitariste, fan de rock, blues et Hardrock<br>
-<em>My name is Cyril, I am an apprentice in frontend software developement, im also a musician, I play guitare and my favorites styles are Rock, Blues, and Hardrock</em> 
+Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi un musicien, guitariste, fan de rock, blues et Hardrock<br>
+<em>My name is Cyril, I am an apprentice in software developement, im also a musician, I play guitare and my favorites styles are Rock, Blues, and Hardrock</em> 
 <h3 align="center">A passionate developer from Switzerland 📍</h3>
 
 <h4 align="left">Languages</h4>
