@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You live as if you will live forever, no care for your mortality ever enters your head, you pay no mind to how much time has already gone by." - Seneca</p>
+<p>"Here is your great soul—the man who has given himself over to Fate; on the other hand, that man is a weakling and a degenerate who struggles and maligns the order of the universe and would rather reform the gods than reform himself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
