@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Here is your great soul—the man who has given himself over to Fate; on the other hand, that man is a weakling and a degenerate who struggles and maligns the order of the universe and would rather reform the gods than reform himself." - Seneca</p>
+<p>"But cast away the thirst after books, that thou mayest not die murmuring, but cheerfully, truly, and from thy heart thankful to the gods." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
