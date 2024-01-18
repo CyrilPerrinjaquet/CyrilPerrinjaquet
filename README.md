@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"But cast away the thirst after books, that thou mayest not die murmuring, but cheerfully, truly, and from thy heart thankful to the gods." - Marcus Aurelius</p>
+<p>"If you look on wealth as a thing to be valued your imaginary poverty will cause you torment." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
