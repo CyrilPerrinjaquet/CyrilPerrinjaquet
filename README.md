@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you look on wealth as a thing to be valued your imaginary poverty will cause you torment." - Seneca</p>
+<p>"Do the one thing that can render you really happy: cast aside and trample under foot all the things that glitter outwardly and are held out to you a by another or as obtainable from another." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
