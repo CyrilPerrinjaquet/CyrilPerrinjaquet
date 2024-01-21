@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Men are not afraid of things, but of how they view them." - Epictetus</p>
+<p>"How much more grievous are the consequences of anger than the causes of it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
