@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How much more grievous are the consequences of anger than the causes of it." - Marcus Aurelius</p>
+<p>"Do not be ashamed of help." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
