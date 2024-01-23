@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Do not be ashamed of help." - Marcus Aurelius</p>
+<p>"For only philosophy or honourable occupation can divert from its anguish a heart whose grief springs from love." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
