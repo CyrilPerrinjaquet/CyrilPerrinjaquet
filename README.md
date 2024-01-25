@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Choose not to be harmed—and you won’t feel harmed. Don’t feel harmed—and you haven’t been." - Marcus Aurelius</p>
+<p>"The present moment is the only thing of which anyone can be deprived, at least if this is the only thing he has and he cannot lose what he has not got." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
