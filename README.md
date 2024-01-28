@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A good man will not waste himself upon mean and discreditable work or be busy merely for the sake of being busy." - Seneca</p>
+<p>"The pomps and glories which he despised were all his; what to most men is an ambition or a dream, to him was a round of weary tasks which nothing but the stern sense of duty could carry him through. And he did his work well." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
