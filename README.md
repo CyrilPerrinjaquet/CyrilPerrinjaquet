@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He is so rich, he has no room to shit." - Marcus Aurelius</p>
+<p>"Nothing is more scandalous than a man that is proud of his humility." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
