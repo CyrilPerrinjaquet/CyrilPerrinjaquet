@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Nothing is more scandalous than a man that is proud of his humility." - Marcus Aurelius</p>
+<p>"Meanwhile, as they rob and are robbed, as they disturb each other’s peace, as they make each other miserable, their lives pass without satisfaction, without pleasure, without mental improvement." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
