@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Meanwhile, as they rob and are robbed, as they disturb each other’s peace, as they make each other miserable, their lives pass without satisfaction, without pleasure, without mental improvement." - Seneca</p>
+<p>"What then is good? The knowledge of things. What is evil? The lack of knowledge of things." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
