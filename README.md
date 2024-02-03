@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Spurn everything that is added by way of decoration and display by unneccesary labour. Relect that nothing merits admiration except the spirit, the impressiveness of which prevents it from being impressed by anything." - Seneca</p>
+<p>"Then they reflect how pointlessly they acquired things they never would enjoy, and how all their toil has been in vain." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
