@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is wrong not to stretch out your hand to the fallen: that is a common law of the human race." - Seneca</p>
+<p>"Whoever is going to listen to the philosophers needs a considerable practice in listening." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
