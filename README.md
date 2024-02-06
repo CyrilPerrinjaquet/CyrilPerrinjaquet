@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Whoever is going to listen to the philosophers needs a considerable practice in listening." - Epictetus</p>
+<p>"What am I doing with my soul? Interrogate yourself, to find out what inhabits your so-called mind and what kind of soul you have now. A child’s soul, an adolescent’s, a woman’s? A tyrant’s soul? The soul of a predator—or its prey?" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
