@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What am I doing with my soul? Interrogate yourself, to find out what inhabits your so-called mind and what kind of soul you have now. A child’s soul, an adolescent’s, a woman’s? A tyrant’s soul? The soul of a predator—or its prey?" - Marcus Aurelius</p>
+<p>"The final hour when we cease to exist does not itself bring death; it merely of itself completes the death-process. We reach death at that moment, but  we have been a long time on the way." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
