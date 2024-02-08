@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The final hour when we cease to exist does not itself bring death; it merely of itself completes the death-process. We reach death at that moment, but  we have been a long time on the way." - Seneca</p>
+<p>"If within the power of another, whom do you blame—atoms or gods? To do either is folly." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
