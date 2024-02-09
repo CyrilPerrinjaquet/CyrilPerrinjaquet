@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If within the power of another, whom do you blame—atoms or gods? To do either is folly." - Marcus Aurelius</p>
+<p>"Live every day as if they last." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
