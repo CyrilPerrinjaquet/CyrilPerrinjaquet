@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is the act of an ill-instructed man to blame others for his own bad condition; it is the act of one who has begun to be instructed, to lay the blame on himself; and of one whose instruction is completed, neither to blame another, nor himself." - Epictetus</p>
+<p>"If you wish to have leisure for your mind, either be a poor man, or resemble a poor man." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
