@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you wish to have leisure for your mind, either be a poor man, or resemble a poor man." - Seneca</p>
+<p>"Nothing is as encouraging as when virtues are visibly embodied in the people around us, when we’re practically showered with them." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
