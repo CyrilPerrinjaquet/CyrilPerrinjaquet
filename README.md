@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Nothing is as encouraging as when virtues are visibly embodied in the people around us, when we’re practically showered with them." - Marcus Aurelius</p>
+<p>"When Zeno received news of a shipwreck and heard that all his luggage had been sunk he said, “Fortune bids me to be a less encumbered philosopher.”" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
