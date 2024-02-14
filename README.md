@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When Zeno received news of a shipwreck and heard that all his luggage had been sunk he said, “Fortune bids me to be a less encumbered philosopher.”" - Seneca</p>
+<p>"Make it your goal never to fail in your desires or experience things you would rather avoid; try never to err in impulse and repulsion; aim to be perfect also in the practice of attention and withholding judgment." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
