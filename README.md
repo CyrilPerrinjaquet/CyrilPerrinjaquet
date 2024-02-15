@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Make it your goal never to fail in your desires or experience things you would rather avoid; try never to err in impulse and repulsion; aim to be perfect also in the practice of attention and withholding judgment." - Epictetus</p>
+<p>"No man is free unless he is the master of himself." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
