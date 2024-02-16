@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No man is free unless he is the master of himself." - Epictetus</p>
+<p>"Just as great and princely wealth is scattered in a moment when it comes into the hands of a bad owner, while wealth however limited, if it is entrusted to a good guardian, increases by use, so our life is amply long for him who orders it properly." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
