@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is not because things are difficult, that we do not dare, it is because we do not dare that Things are difficult." - Seneca</p>
+<p>"You are a little soul carrying about a corpse, as Epictetus used to say." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
