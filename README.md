@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"People who are excited by posthumous fame forget that the people who remember them will soon die too. And those after them in turn. Until their memory, passed from one to another like a candle flame, gutters and goes out." - Marcus Aurelius</p>
+<p>"Let my mind be fixed on itself, cultivate itself, have no external interest – nothing that seeks the approval of another; let it cherish the tranquillity that has no part in public or private concerns." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
