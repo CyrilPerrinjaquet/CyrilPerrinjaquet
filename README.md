@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Let my mind be fixed on itself, cultivate itself, have no external interest – nothing that seeks the approval of another; let it cherish the tranquillity that has no part in public or private concerns." - Seneca</p>
+<p>"Some vices delight them as being proofs of their prosperity; it seems the part of a man who is very lowly and despicable to know what he is doing." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
