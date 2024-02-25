@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Adapt yourself to the life you have been given; and truly love the people with whom destiny has surrounded you." - Marcus Aurelius</p>
+<p>"Life is slavery if the courage to die is absent." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
