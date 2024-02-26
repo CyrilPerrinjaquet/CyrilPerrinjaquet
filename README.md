@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Life is slavery if the courage to die is absent." - Seneca</p>
+<p>"We deceive ourselves in thinking that death only follows life whereas it both goes before and will follow after it for where is the difference in not beginning or ceasing to exist the effect of both is not to be." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
