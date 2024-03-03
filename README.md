@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The Stoics had always approved of participation in public life, and this stand struck a chord with the Roman aristocracy, whose code of values placed a premium on political and military activity." - Marcus Aurelius</p>
+<p>"A little flesh, a little breath, and a Reason to rule all – that is myself." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
