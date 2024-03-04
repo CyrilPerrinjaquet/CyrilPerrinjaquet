@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A little flesh, a little breath, and a Reason to rule all – that is myself." - Marcus Aurelius</p>
+<p>"And give up your thirst for books, so that you do not die a grouch, but in true grace and heartfelt gratitude to the god." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
