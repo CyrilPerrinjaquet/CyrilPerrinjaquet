@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No man was ever wise by chance." - Seneca</p>
+<p>"III. Hippocrates having cured many sicknesses, fell sick himself and died." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
