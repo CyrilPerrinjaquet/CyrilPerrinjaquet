@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"III. Hippocrates having cured many sicknesses, fell sick himself and died." - Marcus Aurelius</p>
+<p>"Time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
