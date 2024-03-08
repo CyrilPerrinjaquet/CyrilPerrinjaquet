@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return." - Marcus Aurelius</p>
+<p>"Free is the person who lives as he wishes and cannot be coerced, impeded or compelled, whose impulses cannot be thwarted, who always gets what he desires and never has to experience what he would rather avoid." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
