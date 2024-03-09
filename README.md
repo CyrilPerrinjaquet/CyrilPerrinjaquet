@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Free is the person who lives as he wishes and cannot be coerced, impeded or compelled, whose impulses cannot be thwarted, who always gets what he desires and never has to experience what he would rather avoid." - Epictetus</p>
+<p>"It is always our choice whether or not we wish to pay the price for life's rewards. And often it is best for us not to pay the price, for the price might be our integrity." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
