@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is always our choice whether or not we wish to pay the price for life's rewards. And often it is best for us not to pay the price, for the price might be our integrity." - Epictetus</p>
+<p>"Why not stop trying to prevent posterity being silent about you? You were born to die, and a silent funeral is less bothersome." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
