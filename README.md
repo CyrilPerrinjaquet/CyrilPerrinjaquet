@@ -33,5 +33,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Why not stop trying to prevent posterity being silent about you? You were born to die, and a silent funeral is less bothersome." - Seneca</p>
+<p>"The difficulty comes from our lack of confidence." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
