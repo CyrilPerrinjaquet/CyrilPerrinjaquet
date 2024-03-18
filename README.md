@@ -20,8 +20,6 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h4 align="lef">Frameworks</h4>
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 
-<p><img align="right" alt="gif" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="300" height="240" /></p>
-
 <h2>About me 🔭</h2>
 
 - 🔭 I’m currently working on **my company app**
