@@ -44,4 +44,4 @@ jobs:
           git config --local user.name "CyrilPerrinjaquet"
           git add README.md
           git commit -m "Update README with a new Stoic quote"
-          git push
+          git push --fore-with-lease
