@@ -46,4 +46,4 @@ jobs:
           git add README.md
           git commit -m "Update README with a new Stoic quote"
           git fetch
-          git push --force
+          git push --force-with-lease
