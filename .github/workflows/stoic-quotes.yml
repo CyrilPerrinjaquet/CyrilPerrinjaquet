@@ -43,7 +43,6 @@ jobs:
           # Commit and push the changes back to the repository
           git config --local user.email "cyrilp.perso@gmail.com"
           git config --local user.name "CyrilPerrinjaquet"
-          git fetch
           git add README.md
           git commit -m "Update README with a new Stoic quote"
-          git push --force-with-lease
+          git push
