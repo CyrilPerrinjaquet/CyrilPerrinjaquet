@@ -2,7 +2,7 @@ name: Fetch Stoic Quote and Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Schedule it to run every day at 10 AM (UTC)
+    - cron: '0 0 * * *'
 
 jobs:
   fetch-quote:
@@ -46,4 +46,4 @@ jobs:
           git add README.md
           git commit -m "Update README with a new Stoic quote"
           git fetch
-          git push
+          git push --force
