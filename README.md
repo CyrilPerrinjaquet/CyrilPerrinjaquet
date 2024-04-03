@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You ask what is the proper limit to a person's wealth? First, having what is essential, and second, having what is enough." - Seneca</p>
+<p>"But only philosophy will wake us; only philosophy will shake us out of that heavy sleep. Devote yourself entirely to her. You're worthy of her, she's worthy of you-fall into each other's arms. Say a firm, plain no to every other occupation." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
