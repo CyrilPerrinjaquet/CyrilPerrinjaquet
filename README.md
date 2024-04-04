@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"But only philosophy will wake us; only philosophy will shake us out of that heavy sleep. Devote yourself entirely to her. You're worthy of her, she's worthy of you-fall into each other's arms. Say a firm, plain no to every other occupation." - Seneca</p>
+<p>"Do not act as if you had ten thousand years to throw away. Death stands at your elbow. Be good for something while you live and it is in your power." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
