@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The universe, then, is God, of whom the popular gods are manifestations; while legends and myths are allegorical. The soul of man is thus an emanation from the godhead, into whom it will eventually be re-absorbed." - Marcus Aurelius</p>
+<p>"As often as I have been amongst men, I have returned less a man." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
