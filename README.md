@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Finally, when he crowns it off by becoming a senator, then he becomes a slave in fine company, then he experiences the poshest and most prestigious form of enslavement." - Epictetus</p>
+<p>"By overloading the body with food you strangle the soul and render it less active." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
