@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"By overloading the body with food you strangle the soul and render it less active." - Seneca</p>
+<p>"He blind, who cannot see with the eyes of his understanding." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
