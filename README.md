@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Nor does he deviate from the way which leads to the end of life, to which a man ought to come pure, tranquil, ready to depart, and without any compulsion perfectly reconciled to his lot." - Marcus Aurelius</p>
+<p>"What really ruins our character is the fact that none of us looks back over his life." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
