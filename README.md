@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What really ruins our character is the fact that none of us looks back over his life." - Seneca</p>
+<p>"A city is not adorned by external things, but by the virtue of those who dwell in it." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
