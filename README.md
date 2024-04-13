@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A city is not adorned by external things, but by the virtue of those who dwell in it." - Epictetus</p>
+<p>"A philosopher without clothes and one without books. “I have nothing to eat,” says he, as he stands there half-naked, “but I subsist on the logos.” And with nothing to read, I subsist on it too." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
