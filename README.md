@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The mind when distracted absorbs nothing deeply." - Seneca</p>
+<p>"It can ruin your life only if it ruins your character. Otherwise it cannot harm you—inside or out." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
