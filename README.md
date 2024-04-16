@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It can ruin your life only if it ruins your character. Otherwise it cannot harm you—inside or out." - Marcus Aurelius</p>
+<p>"When a youth was giving himself airs in the Theatre and saying, 'I am wise, for I have conversed with many wise men,' Epictetus replied, 'I too have conversed with many rich men, yet I am not rich!’." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
