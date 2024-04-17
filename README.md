@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When a youth was giving himself airs in the Theatre and saying, 'I am wise, for I have conversed with many wise men,' Epictetus replied, 'I too have conversed with many rich men, yet I am not rich!’." - Epictetus</p>
+<p>"Men are disturbed, not by things, but by the principles and notions which they form concerning things." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
