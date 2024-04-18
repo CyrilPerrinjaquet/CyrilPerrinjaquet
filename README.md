@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Men are disturbed, not by things, but by the principles and notions which they form concerning things." - Epictetus</p>
+<p>"It is in your power to withdraw yourself whenever you desire. Perfect tranquility within consists in the good ordering of the mind, the realm of your own." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
