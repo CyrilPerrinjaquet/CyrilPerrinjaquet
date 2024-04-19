@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is in your power to withdraw yourself whenever you desire. Perfect tranquility within consists in the good ordering of the mind, the realm of your own." - Marcus Aurelius</p>
+<p>"A family formed by crime must be broken by more crime." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
