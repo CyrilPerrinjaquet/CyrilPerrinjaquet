@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A city is not adorned by external things, but by the virtue of those who dwell in it." - Epictetus</p>
+<p>"Faithfulness is the antidote to bitterness and confusion." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
