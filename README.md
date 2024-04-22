@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Faithfulness is the antidote to bitterness and confusion." - Epictetus</p>
+<p>"The happiness of your life depends upon the quality of your thoughts." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
