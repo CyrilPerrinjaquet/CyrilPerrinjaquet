@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The happiness of your life depends upon the quality of your thoughts." - Marcus Aurelius</p>
+<p>"Where, then, lies the mistake, since all men crave the happy life?  It is that they regard the means for producing happiness as happiness itself, and, while seeking happiness, they are really fleeing from it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
