@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Where, then, lies the mistake, since all men crave the happy life?  It is that they regard the means for producing happiness as happiness itself, and, while seeking happiness, they are really fleeing from it." - Seneca</p>
+<p>"You should, I need hardly say, live in such a way that there is nothing which you could not as easily tell your enemy as keep to yourself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
