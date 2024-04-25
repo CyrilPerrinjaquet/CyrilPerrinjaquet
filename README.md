@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You should, I need hardly say, live in such a way that there is nothing which you could not as easily tell your enemy as keep to yourself." - Seneca</p>
+<p>"We are all mere nuggets of incense on the one altar. Some burn down now , some later - there is no difference ." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
