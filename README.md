@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We are all mere nuggets of incense on the one altar. Some burn down now , some later - there is no difference ." - Marcus Aurelius</p>
+<p>"No man has been shattered by the blows of Fortune unless he was first deceived by her favours." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
