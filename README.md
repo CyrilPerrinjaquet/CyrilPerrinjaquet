@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No man has been shattered by the blows of Fortune unless he was first deceived by her favours." - Seneca</p>
+<p>"All that exists is the seed of what will emerge from it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
