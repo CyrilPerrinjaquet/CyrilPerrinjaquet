@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Choose not to be harmed—and you won’t feel harmed. Don’t feel harmed—and you haven’t been." - Marcus Aurelius</p>
+<p>"Things?—I was once a fortunate man, but I lost it, I know not how.—But fortunate means that a man has assigned to himself a good fortune: and a good fortune is good disposition of the soul, good emotions, good actions." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
