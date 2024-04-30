@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Things?—I was once a fortunate man, but I lost it, I know not how.—But fortunate means that a man has assigned to himself a good fortune: and a good fortune is good disposition of the soul, good emotions, good actions." - Marcus Aurelius</p>
+<p>"Fire is the test of gold; adversity, of strong men." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
