@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Fire is the test of gold; adversity, of strong men." - Seneca</p>
+<p>"Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
