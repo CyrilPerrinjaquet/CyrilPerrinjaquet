@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded." - Marcus Aurelius</p>
+<p>"The primary indication, to my thinking, of a well-ordered mind is a man's ability to remain in one place and linger in his own company." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
