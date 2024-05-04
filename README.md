@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you’re honest and straightforward and mean well, it should show in your eyes. It should be unmistakable." - Marcus Aurelius</p>
+<p>"Not all men are wounded in the same place; and so you ought to know what part of you is weak, so you can give it the most protection." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
