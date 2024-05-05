@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Not all men are wounded in the same place; and so you ought to know what part of you is weak, so you can give it the most protection." - Seneca</p>
+<p>"I never spend a day in idleness; I appropriate even a part of the night for study. I do not allow time for sleep but yield to it when I must, and when my eyes are wearied with waking and ready to fall shut, I keep them at their task." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
