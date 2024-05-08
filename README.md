@@ -6,7 +6,7 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h3 align="center">A passionate developer from Switzerland 📍</h3>
 
 <h4 align="left">Languages</h4>
-<div id="badges" align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="80" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="132" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="59" />
@@ -20,8 +20,10 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 
 <h4 align="left">DevOps</h4>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="70" />
+<div align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="70" />
+</div>
 
 <h2>About me 🔭</h2>
 
