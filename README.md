@@ -31,5 +31,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Men do not care how nobly they live, but only for how long, although it is within the reach of every man to live nobly, but within no man’s power to live long." - Seneca</p>
+<p>"It is, in other words, not objects and events but the interpretations we place on them that are the problem. Our duty is therefore to exercise stringent control over the faculty of perception, with the aim of protecting our mind from error." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
