@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Not to be overwhelmed by what you imagine, but just do what you can and should." - Marcus Aurelius</p>
+<p>"A grey-haired wrinkled man has not necessarily lived long. More accurately, he has existed long." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
