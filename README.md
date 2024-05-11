@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A grey-haired wrinkled man has not necessarily lived long. More accurately, he has existed long." - Seneca</p>
+<p>"Meditate upon what you ought to be in body and soul when death overtakes you; meditate on the brevity of life, and the measureless gulf of eternity behind it and before, and upon the frailty of everything material." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
