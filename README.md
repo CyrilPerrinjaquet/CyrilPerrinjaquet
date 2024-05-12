@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Meditate upon what you ought to be in body and soul when death overtakes you; meditate on the brevity of life, and the measureless gulf of eternity behind it and before, and upon the frailty of everything material." - Marcus Aurelius</p>
+<p>"Do you ask me what you should regard as especially to be avoided? I say, crowds; for as yet you cannot trust yourself to them with safety." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
