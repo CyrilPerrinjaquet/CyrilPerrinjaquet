@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Do you ask me what you should regard as especially to be avoided? I say, crowds; for as yet you cannot trust yourself to them with safety." - Seneca</p>
+<p>"Don't live as though you were going to live a myriad years. Fate is hanging over your head; while you have life, while you may, become good." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
