@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Don't live as though you were going to live a myriad years. Fate is hanging over your head; while you have life, while you may, become good." - Marcus Aurelius</p>
+<p>"There is never a time when new distraction will not show up; we sow them, so several will grow from the same seed." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
