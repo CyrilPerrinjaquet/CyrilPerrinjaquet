@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There is never a time when new distraction will not show up; we sow them, so several will grow from the same seed." - Seneca</p>
+<p>"Think of yourself as dead. You have lived your life. Now, take what's left and live it properly. What doesn't transmit light creates its own darkness." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
