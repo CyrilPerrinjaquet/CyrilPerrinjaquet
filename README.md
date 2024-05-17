@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Consider how quickly all things are dissolved and resolved: the bodies and substances themselves, into the matter and substance of the world: and their memories into the general age and time of the world." - Marcus Aurelius</p>
+<p>"For some persons the remedy should be merely prescribed; in the case of others, it should be forced down their throats. ." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
