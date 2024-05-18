@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For some persons the remedy should be merely prescribed; in the case of others, it should be forced down their throats. ." - Seneca</p>
+<p>"Regard a friend as loyal, and you will make him loyal." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
