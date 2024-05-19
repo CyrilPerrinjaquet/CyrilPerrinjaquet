@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Regard a friend as loyal, and you will make him loyal." - Seneca</p>
+<p>"A poor soul burdened with a corpse,' Epictetus calls you." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
