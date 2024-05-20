@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A poor soul burdened with a corpse,' Epictetus calls you." - Marcus Aurelius</p>
+<p>"Do not get too attached to life for it is like a sailor's leave on the shore and at any time, the captain may sound the horn, calling you back to eternal darkness." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
