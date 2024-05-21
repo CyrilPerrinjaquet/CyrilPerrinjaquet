@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Do not get too attached to life for it is like a sailor's leave on the shore and at any time, the captain may sound the horn, calling you back to eternal darkness." - Epictetus</p>
+<p>"In guarding their fortune men are often closefisted, yet, when it comes to the matter of wasting time, in the case of the one thing in which it is right to be miserly, they show themselves most prodigal." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
