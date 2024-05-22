@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In guarding their fortune men are often closefisted, yet, when it comes to the matter of wasting time, in the case of the one thing in which it is right to be miserly, they show themselves most prodigal." - Seneca</p>
+<p>"In the ways of Nature there is no evil to be found." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
