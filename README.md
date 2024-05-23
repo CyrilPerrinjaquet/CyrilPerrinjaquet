@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In the ways of Nature there is no evil to be found." - Marcus Aurelius</p>
+<p>"Other people's views and troubles can be contagious. Don't sabotage yourself by unwittingly adopting negative, unproductive attitudes through your associations with others." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
