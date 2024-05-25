@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If the Divine is faithful, he also must be faithful; if free, he also must be free; if beneficent, he also must be beneficent; if magnanimous, he also must be magnanimous. Thus as an imitator of God must he follow Him in every deed and word." - Epictetus</p>
+<p>"Since the mind when distracted absorbs nothing deeply, but rejects everything which is, so to speak, crammed into it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
