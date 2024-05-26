@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Since the mind when distracted absorbs nothing deeply, but rejects everything which is, so to speak, crammed into it." - Seneca</p>
+<p>"Fire is the test of gold; adversity, of strong men." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
