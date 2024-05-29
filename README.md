@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Undisturbed by fears and unspoiled by pleasures, we shall be afraid neither of death nor the gods." - Seneca</p>
+<p>"He who is brave is free." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
