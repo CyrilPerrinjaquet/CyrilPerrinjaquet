@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well." - Marcus Aurelius</p>
+<p>"Because thou writest me often, I thank thee. Never do I receive a letter from thee, but immediately we are together." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
