@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Soon you'll be ashes or bones. A mere name at most - and even that is just a sound, an echo. The things we want in life are empty, stale, trivial." - Marcus Aurelius</p>
+<p>"To stand up straight — not straightened." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
