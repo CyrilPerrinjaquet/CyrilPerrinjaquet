@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Often a very old man has no other proof of his long life than his age." - Seneca</p>
+<p>"No more roundabout discussions of what makes a good man. Be one!" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
