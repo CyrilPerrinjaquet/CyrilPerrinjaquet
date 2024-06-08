@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If then you desire (aim at) such great things remember that you must not (attempt to) lay hold of them with a small effort." - Epictetus</p>
+<p>"Never let the future disturb you - you will meet it with the same weapons of reason and mind that, today, guard you against the present..." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
