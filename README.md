@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"First learn the meaning of what you say, and then speak." - Epictetus</p>
+<p>"No man is happy who does not think himself so." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
