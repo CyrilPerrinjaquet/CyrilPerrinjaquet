@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you want to keep a secret, never share it." - Seneca</p>
+<p>"It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
