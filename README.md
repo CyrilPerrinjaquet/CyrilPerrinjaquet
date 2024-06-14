@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own." - Marcus Aurelius</p>
+<p>"Nothing great comes into being all at once, for that is not the case even with a bunch of grapes or a fig. If you tell me now, ‘I want a fig,’ I’ll reply, ‘That takes time." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
