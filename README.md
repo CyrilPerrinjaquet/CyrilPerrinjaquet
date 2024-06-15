@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Nothing great comes into being all at once, for that is not the case even with a bunch of grapes or a fig. If you tell me now, ‘I want a fig,’ I’ll reply, ‘That takes time." - Epictetus</p>
+<p>"The preoccupied become aware of it only when it is over." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
