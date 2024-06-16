@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The preoccupied become aware of it only when it is over." - Seneca</p>
+<p>"When a soul rises superior to other souls, when it is under control, when it passes through every experience as if it were of small account, when it smiles at our fears and at our prayers, it is stirred by a force from heaven." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
