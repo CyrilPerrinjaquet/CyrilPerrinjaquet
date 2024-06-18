@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"They lose the day in waiting for the night, and the night in fearing the dawn." - Seneca</p>
+<p>"The Roman religion was in fact of the nature of a bargain: men paid certain sacrifices and rites, and the gods granted their favour, irrespective of right or wrong." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
