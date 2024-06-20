@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one was ever truly harmed. It is the person who continues in his self-deception and ignorance who is harmed." - Marcus Aurelius</p>
+<p>"But first consider how much more sparing and patient of hardship the poor are than we." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
