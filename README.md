@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How much happier is the man who owes nothing to anybody except the one he can most easily refuse, himself!" - Seneca</p>
+<p>"First say to yourself what you would be; and then do what you have to do." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
