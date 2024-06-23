@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"First say to yourself what you would be; and then do what you have to do." - Epictetus</p>
+<p>"It is man's peculiar duty to love even those who wrong him." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
