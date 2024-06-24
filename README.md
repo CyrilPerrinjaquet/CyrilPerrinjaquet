@@ -36,5 +36,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is man's peculiar duty to love even those who wrong him." - Marcus Aurelius</p>
+<p>"Whenever you are about to find fault with someone, ask yourself the following question: What fault of mine most nearly resembles the one I am about to criticize?" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
