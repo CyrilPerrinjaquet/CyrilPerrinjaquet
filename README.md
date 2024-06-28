@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It was nature’s intention that there should be no need of great equipment for a good life: every individual can make himself happy." - Seneca</p>
+<p>"But he who bestows all of his time on his own needs, who plans out every day as if it were his last, neither longs for nor fears the morrow." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
