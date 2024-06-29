@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"But he who bestows all of his time on his own needs, who plans out every day as if it were his last, neither longs for nor fears the morrow." - Seneca</p>
+<p>"When force of circumstance upsets your equanimity, lose no time in recovering your self-control, and do not remain out of tune longer than you can help. Habitual recurrence to the harmony will increase your mastery of it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
