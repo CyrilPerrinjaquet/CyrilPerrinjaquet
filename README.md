@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"All things that are still to come lie in uncertainty; live straightway!" - Seneca</p>
+<p>"The man who spends all his time on his own needs, who organizes every day as though it were his last, neither longs for nor fears the next day." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
