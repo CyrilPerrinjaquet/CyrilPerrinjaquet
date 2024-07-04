@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The happy man is satisfied with his present situation, no matter what it is, and eyes his fortune with contentment; the happy man is the one who permits reason to evaluate every condition of his existence." - Seneca</p>
+<p>"Our own worth is measured by what we devote our energy to." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
