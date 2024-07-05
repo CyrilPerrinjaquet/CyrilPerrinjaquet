@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Our own worth is measured by what we devote our energy to." - Marcus Aurelius</p>
+<p>"But first consider how much more sparing and patient of hardship the poor are than we." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
