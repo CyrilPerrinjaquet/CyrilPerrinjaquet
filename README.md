@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"B.C.)—Stoicism stressed the search for inner peace and ethical certainty despite the apparent chaos of the external world by emulating in one’s personal conduct the underlying orderliness and lawfulness of nature." - Marcus Aurelius</p>
+<p>"You only have to doze a moment, and all is lost. For ruin and salvation both have their source inside you." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
