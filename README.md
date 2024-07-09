@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You only have to doze a moment, and all is lost. For ruin and salvation both have their source inside you." - Epictetus</p>
+<p>"It's not that we have a short time to live, but that we waste much of it. Life is long enough, and it's been given to us in generous measure for accomplishing the greatest things, if the whole of it is well invested." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
