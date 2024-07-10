@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It's not that we have a short time to live, but that we waste much of it. Life is long enough, and it's been given to us in generous measure for accomplishing the greatest things, if the whole of it is well invested." - Seneca</p>
+<p>"Reflect how pleasant it is to demand nothing, how noble it is to be contented and not to be dependent upon Fortune." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
