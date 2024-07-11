@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Reflect how pleasant it is to demand nothing, how noble it is to be contented and not to be dependent upon Fortune." - Seneca</p>
+<p>"Grammar will tell you how to write; but whether to write or not, grammar will not tell." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
