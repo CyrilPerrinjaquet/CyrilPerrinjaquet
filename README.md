@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A good man will not waste himself upon mean and discreditable work or be busy merely for the sake of being busy." - Seneca</p>
+<p>"It is a shame when the soul is first to give way in this life, and the body does not give way." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
