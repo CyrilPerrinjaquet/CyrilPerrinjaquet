@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The things ordained for you—teach yourself to be at one with those. And the people who share them with you—treat them with love. With real love." - Marcus Aurelius</p>
+<p>"Every pleasure is most valued when it is coming to an end." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
