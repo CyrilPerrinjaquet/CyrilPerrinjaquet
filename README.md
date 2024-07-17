@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every pleasure is most valued when it is coming to an end." - Seneca</p>
+<p>"Only a mind that is deeply stirred can utter something noble and beyond the power of others." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
