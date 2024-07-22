@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In everything that you do, pause and ask yourself if death is a dreadful thing because it deprives you of this." - Marcus Aurelius</p>
+<p>"We have two ears and one mouth so that we can listen twice as much as we speak." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
