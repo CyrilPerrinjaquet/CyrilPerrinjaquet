@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We have two ears and one mouth so that we can listen twice as much as we speak." - Epictetus</p>
+<p>"We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
