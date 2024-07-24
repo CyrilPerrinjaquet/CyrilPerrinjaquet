@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it." - Seneca</p>
+<p>"We aren't filled with fear except by things that are bad; and not by them, either, as long as it is in our power to avoid them." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
