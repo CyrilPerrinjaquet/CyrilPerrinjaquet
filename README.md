@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We aren't filled with fear except by things that are bad; and not by them, either, as long as it is in our power to avoid them." - Epictetus</p>
+<p>"The willing, Destiny guides them. The unwilling, Destiny drags them." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
