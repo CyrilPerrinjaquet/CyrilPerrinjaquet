@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The willing, Destiny guides them. The unwilling, Destiny drags them." - Seneca</p>
+<p>"Reading should serve the goal of attaining peace; if it doesn’t make you peaceful, what good is it?" - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
