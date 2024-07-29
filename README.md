@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Demand not that things happen as you wish, but wish them to happen as they do, and you will go on well." - Epictetus</p>
+<p>"Give up your thirst for books, so that you do not die a grouch." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
