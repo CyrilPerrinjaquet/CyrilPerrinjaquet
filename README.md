@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Give up your thirst for books, so that you do not die a grouch." - Marcus Aurelius</p>
+<p>"Where you arrive does not matter as much as what sort of person you are when you arrive there." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
