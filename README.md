@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To pursue the impossible is madness: but it is impossible for evil men not to do things of this sort." - Marcus Aurelius</p>
+<p>"Ignorance is the cause of fear." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
