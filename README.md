@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy." - Marcus Aurelius</p>
+<p>"In prosperity it is very easy to find a friend; but in adversity it is most difficult of all things." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
