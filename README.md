@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In prosperity it is very easy to find a friend; but in adversity it is most difficult of all things." - Epictetus</p>
+<p>"You are a little soul carrying a dead body, as Epictetus said." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
