@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You are a little soul carrying a dead body, as Epictetus said." - Epictetus</p>
+<p>"Nothing is burdensome if taken lightly, and nothing need arouse one's irritation so long as one doesn't make it bigger than it is by getting irritated." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
