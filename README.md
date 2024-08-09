@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"And what’s so bad about your being deprived of that? All things seem unbearable to people who have become spoilt, who have become soft through a life of luxury, ailing more in the mind than they ever are in the body." - Seneca</p>
+<p>"A gift consists not in what is done or given, but in the intention of the giver or doer." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
