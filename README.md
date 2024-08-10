@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A gift consists not in what is done or given, but in the intention of the giver or doer." - Seneca</p>
+<p>"The honest and good man ought to be exactly like a man who smells strong, so that the bystander as soon as he comes near him must smell whether he choose or not." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
