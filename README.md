@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The honest and good man ought to be exactly like a man who smells strong, so that the bystander as soon as he comes near him must smell whether he choose or not." - Marcus Aurelius</p>
+<p>"For many men, the acquisition of wealth does not end their troubles, it only changes them." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
