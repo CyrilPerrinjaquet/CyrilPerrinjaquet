@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For many men, the acquisition of wealth does not end their troubles, it only changes them." - Seneca</p>
+<p>"Try how the life of the good man suits thee, the life of him who is satisfied with his portion out of the whole, and satisfied with his own just acts and benevolent disposition." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
