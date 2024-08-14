@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig." - Marcus Aurelius</p>
+<p>"If you want to improve, you must be content to be thought foolish and stupid." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
