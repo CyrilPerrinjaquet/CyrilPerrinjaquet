@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Friend, lay hold with a desperate grasp, ere it is too late, on Freedom, on Tranquility, on Greatness of soul!" - Epictetus</p>
+<p>"Not to be offended with other men's liberty of speech." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
