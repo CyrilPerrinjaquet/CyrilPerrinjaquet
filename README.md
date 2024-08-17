@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Not to be offended with other men's liberty of speech." - Marcus Aurelius</p>
+<p>"He who has seen the present has seen everything, that which happened in the most distant past and that which will happen in the future." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
