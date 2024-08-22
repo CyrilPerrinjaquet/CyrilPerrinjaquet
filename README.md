@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The way to peace is to be content with yourself, honor the light of reason within, live in harmony with others, and be grateful to the gods for the universe and your role in it." - Marcus Aurelius</p>
+<p>"The Stoic makes no differentiation between a small act of kindness by a simple person and a great act of virtue from a learned sage. Virtue is virtue, and in both cases the result is happiness for the one who is virtuous." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
