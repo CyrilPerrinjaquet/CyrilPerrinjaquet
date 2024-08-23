@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The Stoic makes no differentiation between a small act of kindness by a simple person and a great act of virtue from a learned sage. Virtue is virtue, and in both cases the result is happiness for the one who is virtuous." - Marcus Aurelius</p>
+<p>"Every man's happiness depends from himself, but behold thy life is almost at an end, whiles affording thyself no respect, thou dost make thy happiness to consist in the souls, and conceits of other men." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
