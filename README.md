@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everywhere, at each moment, you have the option: to accept this event with humility, to treat this person as he should be treated, or to approach this thought with care, so that nothing irrational creeps in." - Marcus Aurelius</p>
+<p>"Reasons for anxiety will never be lacking, whether born of prosperity or of wretchedness; life pushes on in a succession of engrossments. We shall always pray for leisure, but never enjoy it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
