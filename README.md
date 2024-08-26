@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Reasons for anxiety will never be lacking, whether born of prosperity or of wretchedness; life pushes on in a succession of engrossments. We shall always pray for leisure, but never enjoy it." - Seneca</p>
+<p>"If you live according to nature, you will never be poor; if you live according to opinion, you will never be rich." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
