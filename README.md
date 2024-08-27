@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you live according to nature, you will never be poor; if you live according to opinion, you will never be rich." - Seneca</p>
+<p>"I do not regard a man as poor, if the little which remains is enough for him." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
