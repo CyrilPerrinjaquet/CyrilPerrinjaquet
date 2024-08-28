@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"I do not regard a man as poor, if the little which remains is enough for him." - Marcus Aurelius</p>
+<p>"With respect to pain, then, and pleasure, or death and life, or honour and dishonour, which the universal nature employs equally, whoever is not equally affected is manifestly acting impiously." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
