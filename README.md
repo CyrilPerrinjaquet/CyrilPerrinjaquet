@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"With respect to pain, then, and pleasure, or death and life, or honour and dishonour, which the universal nature employs equally, whoever is not equally affected is manifestly acting impiously." - Marcus Aurelius</p>
+<p>"Let silence be your general rule; or say only what is necessary and in few words." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
