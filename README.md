@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Let silence be your general rule; or say only what is necessary and in few words." - Epictetus</p>
+<p>"Plague on it! what madness this is, to punish one's self because one is unfortunate, and not to lessen, but to increase one's ills!" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
