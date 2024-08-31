@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Plague on it! what madness this is, to punish one's self because one is unfortunate, and not to lessen, but to increase one's ills!" - Seneca</p>
+<p>"If wisdom were offered me on the one condition that I should keep it shut away and not divulge it to anyone, I should reject it. There is no enjoying the possession of anything valuable unless one has someone to share it with." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
