@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If wisdom were offered me on the one condition that I should keep it shut away and not divulge it to anyone, I should reject it. There is no enjoying the possession of anything valuable unless one has someone to share it with." - Seneca</p>
+<p>"Forget everything else. Keep hold of this alone and remember it: Each of us lives only now, this brief instant. The rest has been lived already, or is impossible to see." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
