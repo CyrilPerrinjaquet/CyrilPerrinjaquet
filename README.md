@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The liberal arts do not conduct the soul all the way to virtue, but merely set it going in that direction." - Seneca</p>
+<p>"Do the things external which fall upon thee distract thee? Give thyself time to learn something new and good, and cease to be whirled around." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
