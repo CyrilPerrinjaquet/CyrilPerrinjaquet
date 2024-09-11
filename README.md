@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It has been ordained that there be summer and winter, abundance and dearth, virtue and vice, and all such opposites for the harmony of the whole, and (Zeus) has given each of us a body, property, and companions." - Epictetus</p>
+<p>"Everything that happens, happens as it should, and if you observe carefully, you will find this to be so." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
