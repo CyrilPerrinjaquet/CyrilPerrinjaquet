@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everything that happens, happens as it should, and if you observe carefully, you will find this to be so." - Marcus Aurelius</p>
+<p>"In your actions, don't procrastinate. In your conversations, don't confuse. In your thoughts, don't wander. In your soul, don't be passive or aggressive. In your life, don't be all about business." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
