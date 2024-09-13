@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In your actions, don't procrastinate. In your conversations, don't confuse. In your thoughts, don't wander. In your soul, don't be passive or aggressive. In your life, don't be all about business." - Marcus Aurelius</p>
+<p>"Everything is interwoven, and the web is holy; none of its parts are unconnected. They are composed harmoniously, and together they compose the world. One world, made up of all things. One divinity, present in them all." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
