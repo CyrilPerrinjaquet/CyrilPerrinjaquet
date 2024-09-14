@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everything is interwoven, and the web is holy; none of its parts are unconnected. They are composed harmoniously, and together they compose the world. One world, made up of all things. One divinity, present in them all." - Marcus Aurelius</p>
+<p>"What is harder than rock? What is softer than water? Yet hard rocks are hollowed out by soft water?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
