@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Never let the future disturb you - you will meet it with the same weapons of reason and mind that, today, guard you against the present..." - Marcus Aurelius</p>
+<p>"No man’s good by accident. Virtue has to be learnt." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
