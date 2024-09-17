@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No man’s good by accident. Virtue has to be learnt." - Seneca</p>
+<p>"In the meantime, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
