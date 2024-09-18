@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In the meantime, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases." - Seneca</p>
+<p>"Keep the prospect of death, exile and all such apparent tragedies before you every day – especially death – and you will never have an abject thought, or desire anything to excess." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
