@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Keep the prospect of death, exile and all such apparent tragedies before you every day – especially death – and you will never have an abject thought, or desire anything to excess." - Epictetus</p>
+<p>"We should every night call ourselves to an account;  What infirmity have I mastered today?  What passions opposed? What temptation resisted? What virtue acquired? Our vices will abort of themselves if they be brought every day to the shrift." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
