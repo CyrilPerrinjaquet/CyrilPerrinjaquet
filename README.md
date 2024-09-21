@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance." - Marcus Aurelius</p>
+<p>"The surest way for those who want to rule  is praising moderation, talking of peace and quiet." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
