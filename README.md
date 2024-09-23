@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For your part, do not desire to be a general, or a senator, or a consul, but to be free; and the only way to this is a disregard of things which lie not within our own power." - Epictetus</p>
+<p>"It’s the truth I’m after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
