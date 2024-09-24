@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It’s the truth I’m after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance." - Marcus Aurelius</p>
+<p>"Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
