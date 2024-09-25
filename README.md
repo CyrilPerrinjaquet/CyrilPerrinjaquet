@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them." - Seneca</p>
+<p>"You will never have to experience defeat if you avoid contests whose outcome is outside your control." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
