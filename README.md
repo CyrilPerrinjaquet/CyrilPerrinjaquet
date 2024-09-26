@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You will never have to experience defeat if you avoid contests whose outcome is outside your control." - Epictetus</p>
+<p>"The existence of evil does not harm the world. And an individual act of evil does not harm the victim. Only one person is harmed by it—and he can stop being harmed as soon as he decides to." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
