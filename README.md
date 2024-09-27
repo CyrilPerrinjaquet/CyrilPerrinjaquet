@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The existence of evil does not harm the world. And an individual act of evil does not harm the victim. Only one person is harmed by it—and he can stop being harmed as soon as he decides to." - Marcus Aurelius</p>
+<p>"It is our conscience, not our pride, that has put doorkeepers at our doors." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
