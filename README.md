@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is our conscience, not our pride, that has put doorkeepers at our doors." - Seneca</p>
+<p>"Adapt yourself to the life you have been given; and truly love the people with whom destiny has surrounded you." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
