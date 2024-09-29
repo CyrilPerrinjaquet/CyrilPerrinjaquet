@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Adapt yourself to the life you have been given; and truly love the people with whom destiny has surrounded you." - Marcus Aurelius</p>
+<p>"The more we value things outside our control, the less control we have." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
