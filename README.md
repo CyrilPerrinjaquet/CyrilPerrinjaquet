@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The more we value things outside our control, the less control we have." - Epictetus</p>
+<p>"Certain people have good, ordinary blood and others have an animated, lively sort of blood that comes to the face quickly." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
