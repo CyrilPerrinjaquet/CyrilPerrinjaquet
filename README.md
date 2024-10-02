@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everywhere, at each moment, you have the option: to accept this event with humility; to treat this person as he should be treated; to approach this thought with care, so that nothing irrational creeps in." - Marcus Aurelius</p>
+<p>"We must indulge the mind and from time to time allow it the leisure which is its food and strength." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
