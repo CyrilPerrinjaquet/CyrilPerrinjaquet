@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Stop honouring externals, quit turning yourself into the tool of mere matter, or of people who can supply you or deny you those material things." - Epictetus</p>
+<p>"Life is a piece of music, and you’re supposed to be dancing." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
