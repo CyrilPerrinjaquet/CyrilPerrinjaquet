@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He who boasts of his descent, praises the deeds of another." - Seneca</p>
+<p>"It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
