@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Accept the things to which fate binds you, and love the people with whom fate brings you together,but do so with all your heart." - Marcus Aurelius</p>
+<p>"Man is troubled not by events, but by the meaning he gives to them." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
