@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Man is troubled not by events, but by the meaning he gives to them." - Epictetus</p>
+<p>"Thou art a little soul bearing about a corpse, as Epictetus used to say. It is no evil for things to undergo change, and no good for things to subsist in consequence of change." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
