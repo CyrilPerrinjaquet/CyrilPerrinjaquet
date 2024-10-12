@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Thou art a little soul bearing about a corpse, as Epictetus used to say. It is no evil for things to undergo change, and no good for things to subsist in consequence of change." - Marcus Aurelius</p>
+<p>"Demand not that events should happen as you wish; but wish them to happen as they do happen, and you will go on well." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
