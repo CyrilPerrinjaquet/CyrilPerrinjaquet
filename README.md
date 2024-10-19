@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Make it your goal never to fail in your desires or experience things you would rather avoid; try never to err in impulse and repulsion; aim to be perfect also in the practice of attention and withholding judgment." - Epictetus</p>
+<p>"Making noble resolutions is not as important as keeping the resolutions you have made already." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
