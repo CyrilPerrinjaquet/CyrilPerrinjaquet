@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Drunkenness is nothing but voluntary madness." - Seneca</p>
+<p>"Remember how long thou hast already put off these things, and how." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
