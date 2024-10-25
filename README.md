@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Remember how long thou hast already put off these things, and how." - Marcus Aurelius</p>
+<p>"Such as are your habitual thoughts, such also will be the character of your mind; for the soul is dyed by the thoughts." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
