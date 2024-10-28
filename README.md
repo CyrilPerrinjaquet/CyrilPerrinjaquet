@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For the only safe harbour in this life's tossing, troubled sea is to refuse to be bothered about what the future will bring and to stand ready and confident, squaring the breast to take without skulking or flinching whatever fortune hurls at us." - Seneca</p>
+<p>"Men are so thoughtless, nay, so mad, that some, through fear of death, force themselves to die." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
