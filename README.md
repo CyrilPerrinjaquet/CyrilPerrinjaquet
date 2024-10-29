@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Men are so thoughtless, nay, so mad, that some, through fear of death, force themselves to die." - Seneca</p>
+<p>"From the philosopher Catulus, never to be dismissive of a friend's accusation, even if it seems unreasonable, but to make every effort to restore the relationship to its normal condition." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
