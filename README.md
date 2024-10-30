@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"From the philosopher Catulus, never to be dismissive of a friend's accusation, even if it seems unreasonable, but to make every effort to restore the relationship to its normal condition." - Marcus Aurelius</p>
+<p>"B.C.)—Stoicism stressed the search for inner peace and ethical certainty despite the apparent chaos of the external world by emulating in one’s personal conduct the underlying orderliness and lawfulness of nature." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
