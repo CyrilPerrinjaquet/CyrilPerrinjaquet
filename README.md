@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No random actions, none not based on underlying principles." - Marcus Aurelius</p>
+<p>"Art thou angry with him whose armpits stink? Art thou angry with him whose mouth smells foul?" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
