@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Art thou angry with him whose armpits stink? Art thou angry with him whose mouth smells foul?" - Marcus Aurelius</p>
+<p>"Whatever anyone does or says, I must be emerald and keep my colour." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
