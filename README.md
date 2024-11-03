@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Whatever anyone does or says, I must be emerald and keep my colour." - Marcus Aurelius</p>
+<p>"A man's peace of mind does not depend upon Fortune; for, even when angry she grants enough for our needs." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
