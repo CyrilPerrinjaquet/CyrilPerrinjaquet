@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A man's peace of mind does not depend upon Fortune; for, even when angry she grants enough for our needs." - Seneca</p>
+<p>"Each of us lives only now, in this brief instant. The rest of our life has been lived already, or is impossible to see because it lies in the unknowable future." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
