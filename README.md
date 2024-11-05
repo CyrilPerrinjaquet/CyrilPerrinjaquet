@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Each of us lives only now, in this brief instant. The rest of our life has been lived already, or is impossible to see because it lies in the unknowable future." - Marcus Aurelius</p>
+<p>"Stolid pack-animals are much more fit for carrying loads than thoroughbred horses: who ever subdued their noble speed with a heavy burden?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
