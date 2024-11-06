@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Stolid pack-animals are much more fit for carrying loads than thoroughbred horses: who ever subdued their noble speed with a heavy burden?" - Seneca</p>
+<p>"The world is mere change, and this life, opinion." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
