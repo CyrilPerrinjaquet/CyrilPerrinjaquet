@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The world is mere change, and this life, opinion." - Marcus Aurelius</p>
+<p>"Despise everything that useless toil creates as an ornament and an object of beauty. And reflect that nothing except the soul is worthy of wonder; for to the soul, if it be great, naught is great." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
