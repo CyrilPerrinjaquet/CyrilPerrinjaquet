@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When you deal with irrational animals, with things and circumstances, be generous and straightforward. You are rational; they are not." - Marcus Aurelius</p>
+<p>"It takes the whole of life to learn how to live, and — what will perhaps make you wonder more — it takes the whole of life to learn how to die." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
