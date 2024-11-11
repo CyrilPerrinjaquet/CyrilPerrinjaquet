@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It takes the whole of life to learn how to live, and — what will perhaps make you wonder more — it takes the whole of life to learn how to die." - Seneca</p>
+<p>"Tis true I know what evil I shall do but passion overpowers the better council." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
