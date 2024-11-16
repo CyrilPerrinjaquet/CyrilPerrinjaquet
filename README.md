@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Give thyself time to learn something new and good, and cease to be whirled around." - Marcus Aurelius</p>
+<p>"Theseus: What is the crime for which you must pay by death? Phaedra: My life." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
