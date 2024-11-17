@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Theseus: What is the crime for which you must pay by death? Phaedra: My life." - Seneca</p>
+<p>"Think for a long time whether or not you should admit a given person to your friendship. But when you have decided to do so, welcome him heart and soul, and speak as unreservedly with him as you would with yourself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
