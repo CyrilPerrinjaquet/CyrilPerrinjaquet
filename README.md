@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Work done with anxiety about results is far inferior to work done without such anxiety, in the calm of self surrender." - Marcus Aurelius</p>
+<p>"Those who lack self-control lead disturbed and tumultuous lives; their crimes are balanced by their fears, and they are never at ease." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
