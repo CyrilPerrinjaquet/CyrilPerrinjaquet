@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Those who lack self-control lead disturbed and tumultuous lives; their crimes are balanced by their fears, and they are never at ease." - Seneca</p>
+<p>"And those who complain and try to obstruct and thwart things—they help as much as anyone. The world needs them as well." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
