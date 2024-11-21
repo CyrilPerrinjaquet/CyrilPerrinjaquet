@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"And those who complain and try to obstruct and thwart things—they help as much as anyone. The world needs them as well." - Marcus Aurelius</p>
+<p>"Look well into thyself; there is a source of strength which will always spring up if thou wilt always look." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
