@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Look well into thyself; there is a source of strength which will always spring up if thou wilt always look." - Marcus Aurelius</p>
+<p>"Time is a river, a violent current of events, glimpsed once and already carried past us, and another follows and is gone." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
