@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Time is a river, a violent current of events, glimpsed once and already carried past us, and another follows and is gone." - Marcus Aurelius</p>
+<p>"Freedom is not procured by a full enjoyment of what is desired, but by controlling the desire." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
