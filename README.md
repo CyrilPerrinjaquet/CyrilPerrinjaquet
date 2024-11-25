@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The ambitious supposeth another man's act, praise and applause, to be his own happiness; the voluptuous his own sense and feeling; but he that is wise, his own action." - Marcus Aurelius</p>
+<p>"It is not because things are difficult, that we do not dare, it is because we do not dare that Things are difficult." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
