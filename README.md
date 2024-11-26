@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is not because things are difficult, that we do not dare, it is because we do not dare that Things are difficult." - Seneca</p>
+<p>"The body and its parts are a river, the soul a dream and mist, life is warfare and a journey far from home, lasting reputation is oblivion." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
