@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is no evil for things to undergo change, and no good for things to subsist in consequence of change." - Marcus Aurelius</p>
+<p>"He claimed that a man's life should be valued according to the value of the things to which he gave his attention." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
