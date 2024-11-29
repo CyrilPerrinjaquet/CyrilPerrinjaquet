@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He claimed that a man's life should be valued according to the value of the things to which he gave his attention." - Marcus Aurelius</p>
+<p>"Withdraw into yourself, as far as you can. Associate with those who will make a better man of you. Welcome those whom you yourself can improve. The process is mutual; for men learn while they teach." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
