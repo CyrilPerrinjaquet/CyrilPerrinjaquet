@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The student as boxer, not fencer. The fencer’s weapon is picked up and put down again. The boxer’s is part of him. All he has to do is clench his fist." - Marcus Aurelius</p>
+<p>"Pride is a master of deception: when you think you’re occupied in the weightiest business, that’s when he has you in his spell." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
