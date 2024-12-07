@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Nothing is more dishonourable than an old man, heavy with years, who has no other evidence of his having lived long except his age." - Seneca</p>
+<p>"There are more things to alarm us than to harm us, and we suffer more often in apprehension than reality." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
