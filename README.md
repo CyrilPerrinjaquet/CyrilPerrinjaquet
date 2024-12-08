@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There are more things to alarm us than to harm us, and we suffer more often in apprehension than reality." - Seneca</p>
+<p>"To read with diligence; not to rest satisfied with a light and superficial knowledge, nor quickly to assent to things commonly spoken of." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
