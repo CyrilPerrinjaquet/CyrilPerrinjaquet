@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To read with diligence; not to rest satisfied with a light and superficial knowledge, nor quickly to assent to things commonly spoken of." - Marcus Aurelius</p>
+<p>"It is wrong not to stretch out your hand to the fallen: that is a common law of the human race." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
