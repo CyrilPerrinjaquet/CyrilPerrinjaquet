@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is wrong not to stretch out your hand to the fallen: that is a common law of the human race." - Seneca</p>
+<p>"Throw aside all hindrances and give up your time to attaining a sound mind." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
