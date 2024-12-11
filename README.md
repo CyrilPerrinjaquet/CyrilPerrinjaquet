@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Throw aside all hindrances and give up your time to attaining a sound mind." - Seneca</p>
+<p>"Timendi causa est nescire -  Ignorance is the cause of fear." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
