@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Not to be offended with other men's liberty of speech, and to apply myself unto philosophy." - Marcus Aurelius</p>
+<p>"Whatever may happen to you, it was prepared for you from all eternity; and the implication of causes was from eternity spinning the thread of your being, and of that which is incident to it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
