@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Whatever may happen to you, it was prepared for you from all eternity; and the implication of causes was from eternity spinning the thread of your being, and of that which is incident to it." - Marcus Aurelius</p>
+<p>"To the world: Your harmony is mine. Whatever time you choose is the right time. Not late, not early." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
