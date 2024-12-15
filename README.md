@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To the world: Your harmony is mine. Whatever time you choose is the right time. Not late, not early." - Marcus Aurelius</p>
+<p>"For many men, the acquisition of wealth does not end their troubles, it only changes them." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
