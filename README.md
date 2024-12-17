@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Thou art a little soul bearing about a corpse." - Marcus Aurelius</p>
+<p>"What mental darkness, what ignorance of the truth blinds those who, though afflicted by the fear of poverty, yet take pleasure in imitating it!" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
