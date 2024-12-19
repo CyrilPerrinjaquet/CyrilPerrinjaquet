@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When men are inhuman, take care not to feel towards them as they do towards other humans." - Marcus Aurelius</p>
+<p>"The art of living is more like wrestling than dancing, in so far as it stands ready against the accidental and the unforeseen, and is not apt to fall." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
