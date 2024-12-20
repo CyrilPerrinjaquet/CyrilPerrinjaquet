@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The art of living is more like wrestling than dancing, in so far as it stands ready against the accidental and the unforeseen, and is not apt to fall." - Marcus Aurelius</p>
+<p>"You can put up with a change of place if only the place is changed." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
