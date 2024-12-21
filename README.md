@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You can put up with a change of place if only the place is changed." - Seneca</p>
+<p>"Do you ask me what you should regard as especially to be avoided? I say, crowds; for as yet you cannot trust yourself to them with safety." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
