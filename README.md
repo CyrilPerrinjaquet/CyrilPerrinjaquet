@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"So don't make a show of your philosophical learning to the uninitiated, show them by your actions what you have absorbed." - Epictetus</p>
+<p>"Therefore it is better to conquer our grief than to deceive it. For if it has withdrawn, being merely beguiled by pleasures and preoccupations, it starts up again and from its very respite gains force to savage us." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
