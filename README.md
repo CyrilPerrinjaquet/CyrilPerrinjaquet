@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Therefore it is better to conquer our grief than to deceive it. For if it has withdrawn, being merely beguiled by pleasures and preoccupations, it starts up again and from its very respite gains force to savage us." - Seneca</p>
+<p>"Pride is a master of deception: when you think you're occupied in the weightiest business, that's when he has you in his spell." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
