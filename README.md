@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Pride is a master of deception: when you think you're occupied in the weightiest business, that's when he has you in his spell." - Marcus Aurelius</p>
+<p>"Think often the connection of all things in the world and their mutual relations, they are arguably intertwined with each other and thus have for each other a mutual friendship, and that under the connection that leads him and the unity of matter." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
