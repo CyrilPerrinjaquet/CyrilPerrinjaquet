@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The other is that all these things, which thou seest, change immediately and will no longer be; and constantly bear in mind how many of these changes thou hast already witnessed. The universe is transformation: life is opinion." - Marcus Aurelius</p>
+<p>"What is this, fundamentally? What is its nature and substance, its reason for being? What is it doing in the world? How long is it here for?" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
