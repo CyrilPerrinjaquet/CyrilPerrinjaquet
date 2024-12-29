@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What is this, fundamentally? What is its nature and substance, its reason for being? What is it doing in the world? How long is it here for?" - Marcus Aurelius</p>
+<p>"The part of life we really live is small. For all the rest of existence is not life, but merely time." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
