@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The part of life we really live is small. For all the rest of existence is not life, but merely time." - Seneca</p>
+<p>"When men are inhuman, take care not to feel towards them as they do towards other humans." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
