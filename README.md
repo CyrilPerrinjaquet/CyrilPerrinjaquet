@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When men are inhuman, take care not to feel towards them as they do towards other humans." - Marcus Aurelius</p>
+<p>"For manliness gains much strength by being challenged." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
