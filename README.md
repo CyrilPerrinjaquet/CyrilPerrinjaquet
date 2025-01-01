@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For manliness gains much strength by being challenged." - Seneca</p>
+<p>"The philosopher's lecture room is a 'hospital': you ought not to walk out of it in a state of pleasure, but in pain; for you are not in good condition when you arrive." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
