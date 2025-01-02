@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The philosopher's lecture room is a 'hospital': you ought not to walk out of it in a state of pleasure, but in pain; for you are not in good condition when you arrive." - Epictetus</p>
+<p>"If some one tells you that so and so speaks ill of you, do not defend yourself against what he says, but answer, 'He did not know my other faults, or he would not have mentioned these alone.'" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
