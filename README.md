@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If some one tells you that so and so speaks ill of you, do not defend yourself against what he says, but answer, 'He did not know my other faults, or he would not have mentioned these alone.'" - Marcus Aurelius</p>
+<p>"If you would not have a man flinch when the crisis comes, train him before it comes." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
