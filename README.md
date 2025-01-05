@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is the superfluous things for which men sweat, – the superfluous things that wear our togas threadbare, that force us to grow old in camp, that dash us upon foreign shores. That which is enough is ready to our hands." - Seneca</p>
+<p>"All things fade into the storied past, and in a little while are shrouded in oblivion." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
