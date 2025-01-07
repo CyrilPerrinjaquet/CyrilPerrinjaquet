@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In a sense, people are our proper occupation. Our job is to do them good and put up with them." - Marcus Aurelius</p>
+<p>"Death smiles at us all, all a man can do is smile back." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
