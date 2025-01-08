@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Death smiles at us all, all a man can do is smile back." - Marcus Aurelius</p>
+<p>"It is not events that disturb people, it is their judgements concerning them." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
