@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is not events that disturb people, it is their judgements concerning them." - Epictetus</p>
+<p>"How ridiculous and what a stranger he is who is surprised at anything which happens in life." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
