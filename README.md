@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How ridiculous and what a stranger he is who is surprised at anything which happens in life." - Marcus Aurelius</p>
+<p>"No man is happy who does not think himself so." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
