@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He who boasts of his descent, praises the deeds of another." - Seneca</p>
+<p>"It is impossible for a man to learn what he thinks he already knows." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
