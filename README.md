@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Inwardly, we ought to be different in every respect, but our outward dress should blend in with the crowd." - Seneca</p>
+<p>"No man’s good by accident. Virtue has to be learnt." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
