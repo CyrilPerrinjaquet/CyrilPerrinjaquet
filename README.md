@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Often a very old man has no other proof of his long life than his age." - Seneca</p>
+<p>"I can show you a philtre, compounded without drugs, herbs, or any witch's incantation: 'If you want to be loved, love." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
