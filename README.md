@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"I can show you a philtre, compounded without drugs, herbs, or any witch's incantation: 'If you want to be loved, love." - Seneca</p>
+<p>"If you are pained by external things, it is not they that disturb you, but your own judgement of them. And it is in your power to wipe out that judgement now." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
