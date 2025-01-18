@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you are pained by external things, it is not they that disturb you, but your own judgement of them. And it is in your power to wipe out that judgement now." - Marcus Aurelius</p>
+<p>"On the occasion of every accident that befalls you, remember to turn to yourself and inquire what power you have for turning it to use." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
