@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily?" - Seneca</p>
+<p>"How much better to follow a straight course and attain a goal where the words pleasant and honourable have the same meaning!" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
