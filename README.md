@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How much better to follow a straight course and attain a goal where the words pleasant and honourable have the same meaning!" - Seneca</p>
+<p>"Who scorns his own life is lord of yours." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
