@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Nature does not reveal her mysteries once and for all." - Seneca</p>
+<p>"Love the discipline you know, and let it support you." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
