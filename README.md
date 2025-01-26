@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"That is the way things are weighed and disagreements settled — when standards are established. Philosophy aims to test and set such standards. And the wise man is advised to make use of their findings right way." - Epictetus</p>
+<p>"It isn't ceasing to live that I'm afraid of but never beginning to live properly." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
