@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It isn't ceasing to live that I'm afraid of but never beginning to live properly." - Marcus Aurelius</p>
+<p>"There is no great genius without a tincture of madness." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
