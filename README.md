@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There is no great genius without a tincture of madness." - Seneca</p>
+<p>"People who are excited by posthumous fame forget that the people who remember them will soon die too. And those after them in turn. Until their memory, passed from one to another like a candle flame, gutters and goes out." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
