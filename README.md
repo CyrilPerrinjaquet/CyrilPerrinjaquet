@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"People who are excited by posthumous fame forget that the people who remember them will soon die too. And those after them in turn. Until their memory, passed from one to another like a candle flame, gutters and goes out." - Marcus Aurelius</p>
+<p>"Stop preventing philosophers from possessing money; no one has condemned wisdom to poverty. I will despise whatever lies in the domain of Fortune, but if a choice is offered, I will choose the better half." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
