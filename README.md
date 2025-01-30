@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Stop preventing philosophers from possessing money; no one has condemned wisdom to poverty. I will despise whatever lies in the domain of Fortune, but if a choice is offered, I will choose the better half." - Seneca</p>
+<p>"Life is like a play: it's not the length, but the excellence of the acting that matters." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
