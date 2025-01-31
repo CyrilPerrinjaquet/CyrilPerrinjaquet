@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Life is like a play: it's not the length, but the excellence of the acting that matters." - Seneca</p>
+<p>"When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love ..." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
