@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"And I observed that he had overcome all passion for boys." - Marcus Aurelius</p>
+<p>"Remember this, that very little is needed to make a happy life." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
