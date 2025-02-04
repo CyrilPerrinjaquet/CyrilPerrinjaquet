@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Remember this, that very little is needed to make a happy life." - Marcus Aurelius</p>
+<p>"Small-minded people blame others. Average people blame themselves. The wise see all blame as foolishness." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
