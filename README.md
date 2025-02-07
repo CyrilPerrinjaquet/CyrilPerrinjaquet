@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Don’t imagine that something is good for you if, in pursuing it, you must break a promise, harm anyone else, lose self-respect, act hypocritically, or hide in shame." - Marcus Aurelius</p>
+<p>"Pride is a master of deception: when you think you’re occupied in the weightiest business, that’s when he has you in his spell." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
