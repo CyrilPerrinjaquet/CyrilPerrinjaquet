@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To read with diligence; not to rest satisfied with a light and superficial knowledge, nor quickly to assent to things commonly spoken of." - Marcus Aurelius</p>
+<p>"Therefore whenever his last day comes, the wise man will not hesitate to meet death with a firm step." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
