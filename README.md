@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Therefore whenever his last day comes, the wise man will not hesitate to meet death with a firm step." - Seneca</p>
+<p>"As to what the future's uncertain lot has in store, why should I demand of Fortune that she give rather than demand of myself that I should not crave?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
