@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Give thyself time to learn something new and good, and cease to be whirled around." - Marcus Aurelius</p>
+<p>"A guilty person sometimes has the luck to escape detection, but never to feel sure of it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
