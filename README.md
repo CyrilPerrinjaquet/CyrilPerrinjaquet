@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Why need we weep over parts of our life? the whole of it calls for tears: new miseries assail us before we have freed ourselves from the old ones." - Seneca</p>
+<p>"Your days are numbered. Use them to throw open the windows of your soul to the sun. If you do not, the sun will soon set, and you with it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
