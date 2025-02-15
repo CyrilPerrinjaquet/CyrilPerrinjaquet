@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Your days are numbered. Use them to throw open the windows of your soul to the sun. If you do not, the sun will soon set, and you with it." - Marcus Aurelius</p>
+<p>"If our intellectual part is common, the reason also, in respect of which we are rational beings, is common: if this is so, common also is the reason which commands us what to do, and what not to do." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
