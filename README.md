@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future too." - Marcus Aurelius</p>
+<p>"Happiness and freedom begin with a clear understanding of one principle: Some things are within our control, and some things are not." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
