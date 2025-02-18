@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Happiness and freedom begin with a clear understanding of one principle: Some things are within our control, and some things are not." - Epictetus</p>
+<p>"Many pursue no fixed goal, but are tossed about in ever-changing designs by a fickleness which is shifting, inconstant and never satisfied with itself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
