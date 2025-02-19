@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Many pursue no fixed goal, but are tossed about in ever-changing designs by a fickleness which is shifting, inconstant and never satisfied with itself." - Seneca</p>
+<p>"We cease to be so angry once we cease to be so hopeful." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
