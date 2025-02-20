@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We cease to be so angry once we cease to be so hopeful." - Seneca</p>
+<p>"We do not receive a life that is short, but rather we make it so; we are not beggar in it, but spendthrifts." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
