@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"By overloading the body with food you strangle the soul and render it less active." - Seneca</p>
+<p>"I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
