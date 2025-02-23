@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future." - Marcus Aurelius</p>
+<p>"Throw aside all hindrances and give up your time to attaining a sound mind." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
