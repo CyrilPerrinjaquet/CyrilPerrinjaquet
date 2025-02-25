@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Ambition means tying your well-being to what other people say or do. Self-indulgence means tying it to the things that happen to you. Sanity means tying it to your own actions." - Marcus Aurelius</p>
+<p>"We always feel anger longer than we feel hurt." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
