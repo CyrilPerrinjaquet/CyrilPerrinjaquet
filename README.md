@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We always feel anger longer than we feel hurt." - Seneca</p>
+<p>"Men are disturbed not by the things which happen, but by the opinions about the things." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
