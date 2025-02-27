@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Men are disturbed not by the things which happen, but by the opinions about the things." - Epictetus</p>
+<p>"To be everywhere is to be nowhere." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
