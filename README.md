@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To be everywhere is to be nowhere." - Seneca</p>
+<p>"It is a ridiculous thing for a man not to fly from his own badness, which is indeed possible, but to fly from other men's badness, which is impossible." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
