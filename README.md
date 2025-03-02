@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth by which no man was ever injured. But he is injured who abides in his error and ignorance." - Marcus Aurelius</p>
+<p>"Be free from grief not through insensibility like the irrational animals, nor through want of thought like the foolish, but like a man of virtue by having reason as the consolation of grief." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
