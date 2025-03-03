@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Be free from grief not through insensibility like the irrational animals, nor through want of thought like the foolish, but like a man of virtue by having reason as the consolation of grief." - Epictetus</p>
+<p>"Never praise or blame people on common grounds; look to their judgements exclusively. Because that is the determining factor, which makes everyone's actions either good or bad." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
