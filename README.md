@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Never praise or blame people on common grounds; look to their judgements exclusively. Because that is the determining factor, which makes everyone's actions either good or bad." - Epictetus</p>
+<p>"For in those things that properly belong unto the mind, she cannot be hindered by any man." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
