@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For in those things that properly belong unto the mind, she cannot be hindered by any man." - Marcus Aurelius</p>
+<p>"When you are disturbed by events and lose your serenity, quickly return to yourself and don't stay upset longer than the experience lasts; for you'll have more mastery over your inner harmony by continually returning to it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
