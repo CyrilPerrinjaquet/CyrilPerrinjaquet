@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When you are disturbed by events and lose your serenity, quickly return to yourself and don't stay upset longer than the experience lasts; for you'll have more mastery over your inner harmony by continually returning to it." - Marcus Aurelius</p>
+<p>"While the fates permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
