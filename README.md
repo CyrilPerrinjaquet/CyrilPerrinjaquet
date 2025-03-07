@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"While the fates permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned." - Seneca</p>
+<p>"Know you not that a good man does nothing for appearance sake, but for the sake of having done right?" - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
