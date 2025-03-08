@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Know you not that a good man does nothing for appearance sake, but for the sake of having done right?" - Epictetus</p>
+<p>"Time flies on fickle wings." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
