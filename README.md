@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Time flies on fickle wings." - Seneca</p>
+<p>"You may fetter my leg, but Zeus himself cannot get the better of my free will." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
