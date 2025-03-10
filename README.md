@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You may fetter my leg, but Zeus himself cannot get the better of my free will." - Epictetus</p>
+<p>"Wherever there is a human being, there is an opportunity for a kindness." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
