@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There is a time and place for diversion and amusements, but you should never allow them to override your true purposes." - Epictetus</p>
+<p>"You have all the fears of mortals and all the desires of immortals." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
