@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Wherever there is a human being, there is an opportunity for a kindness." - Seneca</p>
+<p>"What's the good of dragging up sufferings which are over, of being unhappy now just because you were then?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
