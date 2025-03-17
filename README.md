@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What's the good of dragging up sufferings which are over, of being unhappy now just because you were then?" - Seneca</p>
+<p>"To recover your life is within your power; simply view things again as once you viewed them, for your revival rests in that." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
