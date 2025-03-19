@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is only in the ideal or perfect state that the virtues of the good citizen and the good man are identical." - Seneca</p>
+<p>"Wilt thou, then, my soul, never be good and simple and one and naked, more manifest than the body which surrounds thee?" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
