@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Wilt thou, then, my soul, never be good and simple and one and naked, more manifest than the body which surrounds thee?" - Marcus Aurelius</p>
+<p>"There can be no place of exile within the world since nothing within the world is alien to men." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
