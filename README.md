@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If there were anything harmful on the other side of death, they would have made sure that the ability to avoid it was within you." - Marcus Aurelius</p>
+<p>"Whatever is in any way beautiful hath its source of beauty in itself, and is complete in itself; praise forms no part of it. So it is none the worse nor the better for being praised." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
