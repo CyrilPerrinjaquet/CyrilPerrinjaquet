@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Whatever is in any way beautiful hath its source of beauty in itself, and is complete in itself; praise forms no part of it. So it is none the worse nor the better for being praised." - Marcus Aurelius</p>
+<p>"All things that are still to come lie in uncertainty; live straightway!" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
