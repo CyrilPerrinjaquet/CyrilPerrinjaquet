@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"All things that are still to come lie in uncertainty; live straightway!" - Seneca</p>
+<p>"From my Great-grandfather, not to have frequented public schools, and to have had good teachers at home, and to know that on such things a man should spend liberally." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
