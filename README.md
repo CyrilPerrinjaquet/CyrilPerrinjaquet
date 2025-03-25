@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"From my Great-grandfather, not to have frequented public schools, and to have had good teachers at home, and to know that on such things a man should spend liberally." - Marcus Aurelius</p>
+<p>"Recognize the malice, cunning, and hypocrisy that power produces, and the peculiar ruthlessness often shown by people from “good families.”" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
