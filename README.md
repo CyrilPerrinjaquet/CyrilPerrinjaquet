@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Recognize the malice, cunning, and hypocrisy that power produces, and the peculiar ruthlessness often shown by people from “good families.”" - Marcus Aurelius</p>
+<p>"Happy is the man who can make others better, not merely when he is in their company, but even when he is in their thoughts!" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
