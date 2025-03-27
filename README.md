@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Happy is the man who can make others better, not merely when he is in their company, but even when he is in their thoughts!" - Seneca</p>
+<p>"Happiness and freedom begin with a clear understanding of one principle: Some things are within our control, and some things are not." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
