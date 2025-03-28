@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Happiness and freedom begin with a clear understanding of one principle: Some things are within our control, and some things are not." - Epictetus</p>
+<p>"For how little have we lost, when the two finest things of all will accompany us wherever we go, universal nature and our individual virtue." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
