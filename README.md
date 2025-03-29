@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For how little have we lost, when the two finest things of all will accompany us wherever we go, universal nature and our individual virtue." - Seneca</p>
+<p>"We perish because we follow other men's examples: we should be cured of this if we were to disengage ourselves from the herd." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
