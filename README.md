@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We perish because we follow other men's examples: we should be cured of this if we were to disengage ourselves from the herd." - Seneca</p>
+<p>"Wealth consists not in having great possessions, but in having few wants." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
