@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The young character, which cannot hold fast to righteousness, must be rescued from the mob." - Seneca</p>
+<p>"Why need we weep over parts of our life? the whole of it calls for tears: new miseries assail us before we have freed ourselves from the old ones." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
