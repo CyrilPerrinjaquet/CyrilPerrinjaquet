@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Why need we weep over parts of our life? the whole of it calls for tears: new miseries assail us before we have freed ourselves from the old ones." - Seneca</p>
+<p>"Errare humanum est, sed perseverare diabolicum: 'to err is human, but to persist (in the mistake) is diabolical." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
