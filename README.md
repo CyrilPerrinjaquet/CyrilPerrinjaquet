@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Errare humanum est, sed perseverare diabolicum: 'to err is human, but to persist (in the mistake) is diabolical." - Seneca</p>
+<p>"Very little is needed for everything to be upset and ruined, only a slight lapse in reason." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
