@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Very little is needed for everything to be upset and ruined, only a slight lapse in reason." - Epictetus</p>
+<p>"Nothing happens to anybody which he is not fitted by nature to bear." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
