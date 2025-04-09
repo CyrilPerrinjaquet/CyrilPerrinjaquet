@@ -37,5 +37,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Silently time sneaks up on you, each hour  gone is followed by a worse one." - Seneca</p>
+<p>"It isn't ceasing to live that I'm afraid of but never beginning to live properly." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
