@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It's not because things are difficult that we dare not venture. It's because we dare not venture that they are difficult." - Seneca</p>
+<p>"Now a man should take away not only unnecessary acts, but also, unnecessary thoughts, for thus superfluous acts will not follow after." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
