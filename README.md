@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"That to expect bad people not to injure others is crazy. It's to ask the impossible. And to let them behave like that to other people but expect them to exempt you is arrogant--the act of a tyrant." - Marcus Aurelius</p>
+<p>"The best revenge is to be unlike him who performed the injury." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
