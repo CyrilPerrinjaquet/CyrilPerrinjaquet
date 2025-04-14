@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The best revenge is to be unlike him who performed the injury." - Marcus Aurelius</p>
+<p>"It is within our power not to make a judgement about something, and so not disturb our minds; for nothing in itself possesses the power to form our judgements." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
