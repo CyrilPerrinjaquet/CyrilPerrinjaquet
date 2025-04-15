@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is within our power not to make a judgement about something, and so not disturb our minds; for nothing in itself possesses the power to form our judgements." - Marcus Aurelius</p>
+<p>"While we are postponing, life speeds by." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
