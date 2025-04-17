@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every man is worth just so much as the things about which he busies himself." - Marcus Aurelius</p>
+<p>"It is man's peculiar duty to love even those who wrong him." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
