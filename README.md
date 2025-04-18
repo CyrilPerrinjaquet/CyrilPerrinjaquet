@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is man's peculiar duty to love even those who wrong him." - Marcus Aurelius</p>
+<p>"Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
