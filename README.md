@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You should, I need hardly say, live in such a way that there is nothing which you could not as easily tell your enemy as keep to yourself." - Seneca</p>
+<p>"If you live in harmony with nature you will never be poor; if you live according what others think, you will never be rich." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
