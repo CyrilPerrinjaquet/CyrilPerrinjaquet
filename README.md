@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you live in harmony with nature you will never be poor; if you live according what others think, you will never be rich." - Seneca</p>
+<p>"To the world: Your harmony is mine. Whatever time you choose is the right time. Not late, not early." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
