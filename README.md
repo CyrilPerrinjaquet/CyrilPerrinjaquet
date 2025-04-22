@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To the world: Your harmony is mine. Whatever time you choose is the right time. Not late, not early." - Marcus Aurelius</p>
+<p>"Theseus: What is the crime for which you must pay by death? Phaedra: My life." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
