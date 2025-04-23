@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Theseus: What is the crime for which you must pay by death? Phaedra: My life." - Seneca</p>
+<p>"A multitude of books only gets in one's way. So if you are unable to read all the books in your possession, you have enough when you have all the books you are able to read." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
