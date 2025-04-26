@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Time heals what reason cannot." - Seneca</p>
+<p>"To expect punishment is to suffer it; and to earn it is to expect it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
