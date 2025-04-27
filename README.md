@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To expect punishment is to suffer it; and to earn it is to expect it." - Seneca</p>
+<p>"There is nothing the wise man does reluctantly. He escapes necessity because he wills what necessity is going to force on him." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
