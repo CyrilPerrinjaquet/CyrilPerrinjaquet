@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The primary indication, to my thinking, of a well-ordered mind is a man's ability to remain in one place and linger in his own company." - Seneca</p>
+<p>"It is not because things are difficult, that we do not dare, it is because we do not dare that Things are difficult." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
