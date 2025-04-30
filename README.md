@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is not because things are difficult, that we do not dare, it is because we do not dare that Things are difficult." - Seneca</p>
+<p>"We must, therefore, take a less serious view of all things, tolerating them in a spirit of acceptance: It is more human to laugh at life than to weep tears over it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
