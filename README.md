@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We must, therefore, take a less serious view of all things, tolerating them in a spirit of acceptance: It is more human to laugh at life than to weep tears over it." - Seneca</p>
+<p>"By the toil of others we are brought into the presence of things which have been brought from darkness into light." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
