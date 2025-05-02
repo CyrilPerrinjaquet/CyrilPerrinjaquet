@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"By the toil of others we are brought into the presence of things which have been brought from darkness into light." - Seneca</p>
+<p>"Not all men are wounded in the same place; and so you ought to know what part of you is weak, so you can give it the most protection." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
