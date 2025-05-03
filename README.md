@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Not all men are wounded in the same place; and so you ought to know what part of you is weak, so you can give it the most protection." - Seneca</p>
+<p>"As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
