@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is." - Seneca</p>
+<p>"He will live ill who does not know how to die well." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
