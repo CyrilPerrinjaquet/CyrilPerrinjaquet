@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He will live ill who does not know how to die well." - Seneca</p>
+<p>"Inwardly, we ought to be different in all respects, but our exterior should conform to society." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
