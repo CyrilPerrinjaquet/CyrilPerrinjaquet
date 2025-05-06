@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Inwardly, we ought to be different in all respects, but our exterior should conform to society." - Seneca</p>
+<p>"Different reasons roused different peoples to leave their homes; but this at least is clear, nothing has stayed where it was born. The human race is always on the move." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
