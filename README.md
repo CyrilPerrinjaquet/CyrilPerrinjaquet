@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Different reasons roused different peoples to leave their homes; but this at least is clear, nothing has stayed where it was born. The human race is always on the move." - Seneca</p>
+<p>"The shortest route to wealth is the contempt of wealth." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
