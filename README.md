@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The knowledge of what is mine and what is not mine, what I can and cannot do. I must die. But must I die bawling? I must be exiled; but is there anything to keep me from going with a smile, calm and self-composed?" - Epictetus</p>
+<p>"One hand washes the other. (Manus Manum Lavat)." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
