@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"One hand washes the other. (Manus Manum Lavat)." - Seneca</p>
+<p>"Most men ebb and flow in wretchedness between the fear of death and the hardships of life; they are unwilling to live, and yet they do not know how to die. For this reason, make life as a whole agreeable to yourself by banishing all worry about it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
