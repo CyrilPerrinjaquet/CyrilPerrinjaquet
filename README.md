@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>" Lead me, O Zeus, and thou O Destiny, the way that I am bid by you to go: To follow I am ready. If I choose not, I make myself a wretch, and still must follow." - Cleanthes</p>
+<p>"Wherein Antoninus recordeth, What and of whom, whether Parents, Friends, or Masters; by their good examples, or good advice and counsel, he had learned." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
