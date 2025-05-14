@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Wherein Antoninus recordeth, What and of whom, whether Parents, Friends, or Masters; by their good examples, or good advice and counsel, he had learned." - Marcus Aurelius</p>
+<p>"Of all existing things some are in our power, and others are not in our power." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
