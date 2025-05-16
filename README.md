@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If anyone tells you that such a person speaks ill of you, don’t make excuses about what is said of you, but answer: “He does not know my other faults, else he would not have mentioned only these.“" - Epictetus</p>
+<p>"Objective judgment … Unselfish action … Willing acceptance … of all external events." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
