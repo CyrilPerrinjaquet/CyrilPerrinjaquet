@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Objective judgment … Unselfish action … Willing acceptance … of all external events." - Marcus Aurelius</p>
+<p>"All those who call you to themselves draw you away from yourself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
