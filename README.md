@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"All those who call you to themselves draw you away from yourself." - Seneca</p>
+<p>"Every man is worth just so much as the things are worth about which he busies himself." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
