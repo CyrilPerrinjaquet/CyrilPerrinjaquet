@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every man is worth just so much as the things are worth about which he busies himself." - Marcus Aurelius</p>
+<p>"Thus Socrates became perfect, improving himself by everything. attending to nothing but reason. And though you are not yet a Socrates, you ought, however, to live as one desirous of becoming a Socrates." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
