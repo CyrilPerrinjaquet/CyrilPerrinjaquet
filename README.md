@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Thus Socrates became perfect, improving himself by everything. attending to nothing but reason. And though you are not yet a Socrates, you ought, however, to live as one desirous of becoming a Socrates." - Epictetus</p>
+<p>"There is an old adage about gladiators, - that they plan their fight in the ring." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
