@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There is an old adage about gladiators, - that they plan their fight in the ring." - Seneca</p>
+<p>"Because a thing seems difficult for you, do not think it impossible for anyone to accomplish." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
