@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Because a thing seems difficult for you, do not think it impossible for anyone to accomplish." - Marcus Aurelius</p>
+<p>"The happiness of your life depends upon the quality of your thoughts: therefore, guard accordingly, and take care that you entertain no notions unsuitable to virtue and reasonable nature." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
