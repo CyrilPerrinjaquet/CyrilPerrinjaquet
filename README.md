@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The happiness of your life depends upon the quality of your thoughts: therefore, guard accordingly, and take care that you entertain no notions unsuitable to virtue and reasonable nature." - Marcus Aurelius</p>
+<p>"Remember, however, that you are formed by nature to bear everything whose tolerability depends on your own opinion to make it so, by thinking that it is in your interest or duty to do so." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
