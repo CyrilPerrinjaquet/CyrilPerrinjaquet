@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We ought to do good to others as simply as a horse runs, or a bee makes honey, or a vine bears grapes season after season without thinking of the grapes it has borne." - Marcus Aurelius</p>
+<p>"What's the use of overcoming opponent after opponent in the wrestling or boxing rings if you can be overcome by your temper?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
