@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No one is ever unhappy because of someone else." - Epictetus</p>
+<p>"No one willingly reverts to the past unless all his actions have passed his own censorship, which is never deceived." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
