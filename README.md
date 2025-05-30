@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To wish to be well is a part of becoming well." - Seneca</p>
+<p>"No one can live happily who has regard for himself alone and transforms everything into a question of his own utility." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
