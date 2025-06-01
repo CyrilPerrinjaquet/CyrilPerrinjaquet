@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Look to nothing, not even for a moment except to reason." - Marcus Aurelius</p>
+<p>"The body’s needs are few: it wants to be free from cold, to banish hunger and thirst with nourishment; if we long for anything more we are exerting ourselves to serve our vices, not our needs." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
