@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Who as though inspired with divine utterance sings salutary verses: Life." - Seneca</p>
+<p>"To love only what happens, what was destined. No greater harmony." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
