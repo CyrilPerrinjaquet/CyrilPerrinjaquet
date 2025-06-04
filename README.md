@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To love only what happens, what was destined. No greater harmony." - Marcus Aurelius</p>
+<p>"The perfection of moral character consists in this, in passing every day as the last, and in being neither violently excited nor torpid nor playing the hypocrite." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
