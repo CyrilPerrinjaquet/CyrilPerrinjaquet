@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The perfection of moral character consists in this, in passing every day as the last, and in being neither violently excited nor torpid nor playing the hypocrite." - Marcus Aurelius</p>
+<p>"There is nothing the busy man is less busied with than living:  there is nothing that is harder to learn." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
