@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There is nothing the busy man is less busied with than living:  there is nothing that is harder to learn." - Seneca</p>
+<p>"Only the educated are free." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
