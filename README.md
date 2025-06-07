@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Only the educated are free." - Epictetus</p>
+<p>"Life is divided into three parts: what was, what is and what shall be. Of these three periods, the present is short, the future is doubtful and the past alone is certain." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
