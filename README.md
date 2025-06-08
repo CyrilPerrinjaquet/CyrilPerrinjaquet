@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Life is divided into three parts: what was, what is and what shall be. Of these three periods, the present is short, the future is doubtful and the past alone is certain." - Seneca</p>
+<p>"Sexual ecstasy is like death. It is one of the secrets of nature’s wisdom." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
