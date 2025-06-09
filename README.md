@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Sexual ecstasy is like death. It is one of the secrets of nature’s wisdom." - Marcus Aurelius</p>
+<p>"To wish to be well is a part of becoming well." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
