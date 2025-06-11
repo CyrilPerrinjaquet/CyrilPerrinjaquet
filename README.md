@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To the gods I am indebted for having good grandfathers, good parents, a good sister, good teachers, good associates, good kinsmen and friends, nearly everything good." - Marcus Aurelius</p>
+<p>"They lose the day in expectation of the night, and the night in fear of the dawn." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
