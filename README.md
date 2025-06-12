@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"They lose the day in expectation of the night, and the night in fear of the dawn." - Seneca</p>
+<p>"Never say of anything that I've lost it, only that I've given it back." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
