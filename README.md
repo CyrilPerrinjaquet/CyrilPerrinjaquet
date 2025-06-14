@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Envy of other people shows how they are unhappy. Their continual attention to others behavior shows how they are boring." - Seneca</p>
+<p>"Does it serve any useful purpose to know that Pompey was the first to exhibit the slaughter of eighteen elephants in the Circus, pitting criminals against them in a mimic battle?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
