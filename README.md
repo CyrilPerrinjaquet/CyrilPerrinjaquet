@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Harmony makes small things grow; lack of harmony makes great things decay." - Seneca</p>
+<p>"If a man knows not to which port he sails, no wind is favorable." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
