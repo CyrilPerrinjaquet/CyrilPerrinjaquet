@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If a man knows not to which port he sails, no wind is favorable." - Seneca</p>
+<p>"Do not let the future disturb you, for you will arrive there, if you arrive, with the same reason you now apply to the present." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
