@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The wise man is self-sufficient, that he can do without friends, not that he desires to do without them. When I say can, I mean this: he endures the loss of a friend with equanimity." - Seneca</p>
+<p>"It is crazy to want what is impossible. And impossible for the wicked not to do so." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
