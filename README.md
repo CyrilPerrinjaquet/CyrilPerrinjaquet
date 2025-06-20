@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is crazy to want what is impossible. And impossible for the wicked not to do so." - Marcus Aurelius</p>
+<p>"First say to yourself what you would be; and then do what you have to do." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
