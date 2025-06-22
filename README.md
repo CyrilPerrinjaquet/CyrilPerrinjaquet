@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Nothing is more dishonourable than an old man, heavy with years, who has no other evidence of his having lived long except his age." - Seneca</p>
+<p>"Do, soul, do; abuse and contemn thyself; yet a while and the time for thee to respect thyself, will be at an end." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
