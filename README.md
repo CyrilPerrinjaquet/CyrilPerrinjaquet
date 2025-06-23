@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Do, soul, do; abuse and contemn thyself; yet a while and the time for thee to respect thyself, will be at an end." - Marcus Aurelius</p>
+<p>"He that sinneth, sinneth unto himself. He that is unjust, hurts himself, in that he makes himself worse than he was before. Not he only that committeth, but he also that omitteth something, is oftentimes unjust." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
