@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He that sinneth, sinneth unto himself. He that is unjust, hurts himself, in that he makes himself worse than he was before. Not he only that committeth, but he also that omitteth something, is oftentimes unjust." - Marcus Aurelius</p>
+<p>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
