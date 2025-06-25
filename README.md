@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." - Epictetus</p>
+<p>"What we cannot bear removes us from life; what remains can be borne." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
