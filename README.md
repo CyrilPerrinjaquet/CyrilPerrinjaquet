@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What we cannot bear removes us from life; what remains can be borne." - Marcus Aurelius</p>
+<p>"Envy of other people shows how they are unhappy. Their continual attention to others behavior shows how they are boring." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
