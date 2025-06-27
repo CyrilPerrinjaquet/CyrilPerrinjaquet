@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Envy of other people shows how they are unhappy. Their continual attention to others behavior shows how they are boring." - Seneca</p>
+<p>"For it is not death or pain that is to be feared, but the fear of pain or death." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
