@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To say all in a word, everything which belongs to the body is a stream, and what belongs to the soul is a dream and vapour, and life is a warfare and a stranger’s sojourn, and after-fame is oblivion." - Marcus Aurelius</p>
+<p>"As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
