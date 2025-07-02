@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is." - Seneca</p>
+<p>"As they that long after figs in winter when they cannot be had; so are they that long after children, before they be granted them." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
