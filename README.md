@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Unhappy am I because this has happened to me. Not so, but happy am I, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future." - Marcus Aurelius</p>
+<p>"We are all mere nuggets of incense on the one altar. Some burn down now , some later - there is no difference ." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
