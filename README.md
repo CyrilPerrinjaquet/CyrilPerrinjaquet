@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We are all mere nuggets of incense on the one altar. Some burn down now , some later - there is no difference ." - Marcus Aurelius</p>
+<p>"God save me from fools with a little philosophy—no one is more difficult to reach." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
