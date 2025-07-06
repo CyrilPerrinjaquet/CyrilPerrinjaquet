@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"God save me from fools with a little philosophy—no one is more difficult to reach." - Epictetus</p>
+<p>"Pride is a master of deception: when you think you’re occupied in the weightiest business, that’s when he has you in his spell." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
