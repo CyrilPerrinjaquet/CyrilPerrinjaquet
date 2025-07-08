@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everyone prefers belief to the exercise of judgement." - Seneca</p>
+<p>"While we are postponing, life speeds by." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
