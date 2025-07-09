@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"While we are postponing, life speeds by." - Seneca</p>
+<p>"What are we to do, then? To make the best of what lies within our power, and deal with everything else as it comes. ‘How does it come, then?’ As God wills." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
