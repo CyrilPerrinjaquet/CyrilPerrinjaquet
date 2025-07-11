@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Ubicumque ex aequo ad caelum erigitur acies, paribus intervallis omnia divina ab omnibus humanis distant - From whatever point on the earth's surface you look up to heaven the same distance lies between the realms of gods and men." - Seneca</p>
+<p>"Pleasure, unless it has been kept within bounds, tends to rush headlong into the abyss of sorrow." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
