@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Pleasure, unless it has been kept within bounds, tends to rush headlong into the abyss of sorrow." - Seneca</p>
+<p>"If a man has reported to you, that a certain person speaks ill of you, do not make any defense to what has been told you: but reply, The man did not know the rest of my faults, for he would not have mentioned these only." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
