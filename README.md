@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If a man has reported to you, that a certain person speaks ill of you, do not make any defense to what has been told you: but reply, The man did not know the rest of my faults, for he would not have mentioned these only." - Epictetus</p>
+<p>"Let not the general representation unto thyself of the wretchedness of this our mortal life, trouble thee." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
