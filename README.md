@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Let not the general representation unto thyself of the wretchedness of this our mortal life, trouble thee." - Marcus Aurelius</p>
+<p>"Observe the movements of the stars as if you were running their courses with them, and let your mind constantly dwell on the changes of the elements into each other. Such imaginings wash away the filth of life on the ground." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
