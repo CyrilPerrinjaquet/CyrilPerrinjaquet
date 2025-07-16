@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"All men are made one for another: either then teach them better or bear with them." - Marcus Aurelius</p>
+<p>"The whole Universe is change, and life itself is but what you deem it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
