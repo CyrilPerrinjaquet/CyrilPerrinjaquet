@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The whole Universe is change, and life itself is but what you deem it." - Marcus Aurelius</p>
+<p>"Every living organism is fulfilled when it follows the right path for its own nature." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
