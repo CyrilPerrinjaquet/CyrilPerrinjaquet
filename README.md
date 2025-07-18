@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every living organism is fulfilled when it follows the right path for its own nature." - Marcus Aurelius</p>
+<p>"Of all existing things some are in our power, and others are not in our power." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
