@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Of all existing things some are in our power, and others are not in our power." - Marcus Aurelius</p>
+<p>"Whatever happens to you has been waiting to happen since the beginning of time. The twining strands of fate wove both of them together: your own existence and the things that happen to you." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
