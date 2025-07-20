@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Whatever happens to you has been waiting to happen since the beginning of time. The twining strands of fate wove both of them together: your own existence and the things that happen to you." - Marcus Aurelius</p>
+<p>"We are born under circumstances that would be favorable if we did not abandon them. It was nature's intention that there should be no need of great equipment for a good life: every individual can make himself happy." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
