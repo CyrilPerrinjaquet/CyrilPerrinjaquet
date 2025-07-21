@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We are born under circumstances that would be favorable if we did not abandon them. It was nature's intention that there should be no need of great equipment for a good life: every individual can make himself happy." - Seneca</p>
+<p>"Living is the least important activity of the preoccupied man." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
