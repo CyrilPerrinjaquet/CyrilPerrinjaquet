@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Death is not dreadful or else it would have appeared dreadful to Socrates." - Epictetus</p>
+<p>"For in those things that properly belong unto the mind, she cannot be hindered by any man." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
