@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"At feasts, remember that you are entertaining two guests, body and soul. What you give to the body, you presently lose; what you give to the soul, you keep for ever." - Epictetus</p>
+<p>"Soon, you will have forgotten everything.  Soon, everybody will have forgotten you." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
