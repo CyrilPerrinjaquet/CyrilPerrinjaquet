@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Soon, you will have forgotten everything.  Soon, everybody will have forgotten you." - Marcus Aurelius</p>
+<p>"The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
