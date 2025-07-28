@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way." - Marcus Aurelius</p>
+<p>"Every individual can make himself happy. External goods are of trivial importance and without much influence in either direction: prosperity does not elevate the sage and adversity does not depress him." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
