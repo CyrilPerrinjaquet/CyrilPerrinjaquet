@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every individual can make himself happy. External goods are of trivial importance and without much influence in either direction: prosperity does not elevate the sage and adversity does not depress him." - Seneca</p>
+<p>"Everything which belongs to the body is a stream, and what belongs to the soul is a dream." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
