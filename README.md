@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everything which belongs to the body is a stream, and what belongs to the soul is a dream." - Marcus Aurelius</p>
+<p>"Do you ask me what you should regard as especially to be avoided? I say, crowds; for as yet you cannot trust yourself to them with safety." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
