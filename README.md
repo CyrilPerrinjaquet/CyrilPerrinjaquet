@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"No one keeps himself waiting; and yet the greatest cure for anger is to wait, so that the initial passion it engenders may die down, and the fog that shrouds the mind may subside, or become less thick." - Seneca</p>
+<p>"The road is long if one proceeds by way of precepts but short and effectual if by way of personal example." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
