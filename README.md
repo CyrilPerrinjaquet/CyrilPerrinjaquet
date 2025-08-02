@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The road is long if one proceeds by way of precepts but short and effectual if by way of personal example." - Seneca</p>
+<p>"It is the mind that creates our wealth, and this goes with us into exile, and in the harshest desert places it finds sufficient to nourish the body and revels in the enjoyment of its own goods." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
