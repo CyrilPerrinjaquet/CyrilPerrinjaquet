@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is the mind that creates our wealth, and this goes with us into exile, and in the harshest desert places it finds sufficient to nourish the body and revels in the enjoyment of its own goods." - Seneca</p>
+<p>"You must vie with time's swiftness in the speed of using it, and, as from a torrent that rushes by and will not always flow, you must drink quickly." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
