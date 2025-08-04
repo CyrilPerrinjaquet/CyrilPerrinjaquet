@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You must vie with time's swiftness in the speed of using it, and, as from a torrent that rushes by and will not always flow, you must drink quickly." - Seneca</p>
+<p>"Everywhere, at each moment, you have the option: to accept this event with humility; to treat this person as he should be treated; to approach this thought with care, so that nothing irrational creeps in." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
