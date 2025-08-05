@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Everywhere, at each moment, you have the option: to accept this event with humility; to treat this person as he should be treated; to approach this thought with care, so that nothing irrational creeps in." - Marcus Aurelius</p>
+<p>"It is more necessary for the soul to be cured than the body; for it is better to die than to live badly." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
