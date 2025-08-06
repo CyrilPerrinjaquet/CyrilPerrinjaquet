@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is more necessary for the soul to be cured than the body; for it is better to die than to live badly." - Epictetus</p>
+<p>"They contemn one another, and yet they seek to please one another: and whilest they seek to surpass one another in worldly pomp and greatness, they most debase and prostitute themselves in their better part one to another." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
