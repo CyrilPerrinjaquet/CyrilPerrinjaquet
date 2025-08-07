@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"They contemn one another, and yet they seek to please one another: and whilest they seek to surpass one another in worldly pomp and greatness, they most debase and prostitute themselves in their better part one to another." - Marcus Aurelius</p>
+<p>"It should be a man's task, says the Imitation, 'to overcome himself, and every day to be stronger than himself." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
