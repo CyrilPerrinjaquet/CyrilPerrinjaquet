@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It should be a man's task, says the Imitation, 'to overcome himself, and every day to be stronger than himself." - Marcus Aurelius</p>
+<p>"For it is according to nature, and nothing is evil which is according to nature." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
