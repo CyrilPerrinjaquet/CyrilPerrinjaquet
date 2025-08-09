@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For it is according to nature, and nothing is evil which is according to nature." - Marcus Aurelius</p>
+<p>"Life is long and there is enough of it for satisfying personal accomplishments if we use our hours well." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
