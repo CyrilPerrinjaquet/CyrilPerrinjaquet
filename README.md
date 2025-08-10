@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Life is long and there is enough of it for satisfying personal accomplishments if we use our hours well." - Seneca</p>
+<p>"The past is ours, and there is nothing more secure for us than that which has been. We are ungrateful for past gains, because we hope for the future, as if the future – if so be that any future is ours – will not be quickly blended with the past." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
