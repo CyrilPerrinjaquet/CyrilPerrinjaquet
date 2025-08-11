@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The past is ours, and there is nothing more secure for us than that which has been. We are ungrateful for past gains, because we hope for the future, as if the future – if so be that any future is ours – will not be quickly blended with the past." - Seneca</p>
+<p>"It isn’t events themselves that disturb people, but only their judgments about them." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
