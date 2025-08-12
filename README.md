@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It isn’t events themselves that disturb people, but only their judgments about them." - Epictetus</p>
+<p>"One can expect an agreement between philosophers sooner than between clocks." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
