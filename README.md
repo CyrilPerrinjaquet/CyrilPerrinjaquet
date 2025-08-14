@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There can be no place of exile within the world since nothing within the world is alien to men." - Seneca</p>
+<p>"Men exist for the sake of one another." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
