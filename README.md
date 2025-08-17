@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Never shirk the proper dispatch of your duty, no matter if you are freezing or hot, groggy or well-rested, vilified or praised, not even if dying or pressed by other demands." - Marcus Aurelius</p>
+<p>"We are frightened at uncertainties, just as if they were certain. We observe no moderation. The slightest thing turns the scales and throws us forthwith into a panic." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
