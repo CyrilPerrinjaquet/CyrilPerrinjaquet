@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The supreme ideal does not call for any external aids. It is homegrown, wholly self-developed. Once it starts looking outside itself for any part of itself it is on the way to being dominated by fortune." - Seneca</p>
+<p>"Every man is worth   just so much as the things are worth about which he busies himself. ." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
