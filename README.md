@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every man is worth   just so much as the things are worth about which he busies himself. ." - Marcus Aurelius</p>
+<p>"It is not that we have so little time but that we lose so much. The life we receive is not short but we make it so; we are not ill provided but use what we have wastefully." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
