@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is not that we have so little time but that we lose so much. The life we receive is not short but we make it so; we are not ill provided but use what we have wastefully." - Seneca</p>
+<p>"When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
