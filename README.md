@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends." - Seneca</p>
+<p>"You will do the greatest services to the state, if you shall raise not the roofs of the houses, but the souls of the citizens: for it is better that great souls should dwell in small houses than for mean slaves to lurk in great houses." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
