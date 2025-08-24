@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You will do the greatest services to the state, if you shall raise not the roofs of the houses, but the souls of the citizens: for it is better that great souls should dwell in small houses than for mean slaves to lurk in great houses." - Epictetus</p>
+<p>"To admonish is better than to reproach for admonition is mild and friendly, but reproach is harsh and insulting; and admonition corrects those who are doing wrong, but reproach only convicts them." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
