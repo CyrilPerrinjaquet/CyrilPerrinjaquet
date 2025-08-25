@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"To admonish is better than to reproach for admonition is mild and friendly, but reproach is harsh and insulting; and admonition corrects those who are doing wrong, but reproach only convicts them." - Epictetus</p>
+<p>"How many of them who came into the world at the same time when I did, are already gone out of it? LII." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
