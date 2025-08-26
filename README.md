@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How many of them who came into the world at the same time when I did, are already gone out of it? LII." - Marcus Aurelius</p>
+<p>"A multitude of books only gets in one's way. So if you are unable to read all the books in your possession, you have enough when you have all the books you are able to read." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
