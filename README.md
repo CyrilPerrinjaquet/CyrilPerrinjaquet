@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Men exist for the sake of one another. Teach them then or bear with them." - Marcus Aurelius</p>
+<p>"Fire tests gold and adversity tests the brave." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
