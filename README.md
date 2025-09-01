@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"He who follows reason in all things is both tranquil and active at the same time, and also cheerful and collected." - Marcus Aurelius</p>
+<p>"No man is happy who does not think himself so." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
