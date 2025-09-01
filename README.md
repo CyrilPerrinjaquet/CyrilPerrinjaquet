@@ -36,7 +36,7 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Music and Sports**
+- 💬 Ask me about **Faith and Sports**
 
 <h2>Daily Stoic Quote</h2>
 
