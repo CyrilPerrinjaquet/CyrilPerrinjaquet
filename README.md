@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Here are thieves and robbers and tribunals: and they that are called tyrants, who deem that they have after a fashion power over us, because of the miserable body and what appertains to it. Let us show them that they have power over none." - Epictetus</p>
+<p>"In protecting their wealth men are tight-fisted, but when it comes to the matter of time, in the case of the one thing in which it is wise to be parsimonious, they are actually generous to a fault." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
