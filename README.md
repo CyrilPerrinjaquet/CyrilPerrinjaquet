@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In protecting their wealth men are tight-fisted, but when it comes to the matter of time, in the case of the one thing in which it is wise to be parsimonious, they are actually generous to a fault." - Seneca</p>
+<p>"It is not the man who has too little who is poor, but the one who hankers after more." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
