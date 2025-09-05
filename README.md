@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is not the man who has too little who is poor, but the one who hankers after more." - Seneca</p>
+<p>"A person's fears are lighter when the danger is at hand." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
