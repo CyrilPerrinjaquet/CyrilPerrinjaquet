@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Were you to live three thousand years, or even thirty thousand, remember that the sole life which a man can lose is that which he is living at the moment; and furthermore, that he can have no other life except the one he loses." - Marcus Aurelius</p>
+<p>"Another does wrong. What is that to me? Let him look to it; he has his own disposition, his own activity. I have now what Universal Nature wills me to have, and I do what my own nature wills me to do." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
