@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Another does wrong. What is that to me? Let him look to it; he has his own disposition, his own activity. I have now what Universal Nature wills me to have, and I do what my own nature wills me to do." - Marcus Aurelius</p>
+<p>"Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
