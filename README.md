@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too." - Marcus Aurelius</p>
+<p>"How plain does it appear that there is not another condition of life so well suited for philosophising as this in which thou now happenest to be." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
