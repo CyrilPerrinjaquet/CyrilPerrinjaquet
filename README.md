@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"How plain does it appear that there is not another condition of life so well suited for philosophising as this in which thou now happenest to be." - Marcus Aurelius</p>
+<p>"Don't live by your own rules, but in harmony with nature." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
