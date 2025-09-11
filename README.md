@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Don't live by your own rules, but in harmony with nature." - Epictetus</p>
+<p>"Another useful point to bear in mind: What qualities has nature given us to counter that defect? As an antidote to unkindness it gave us kindness. And other qualities to balance other flaws." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
