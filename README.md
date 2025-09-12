@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Another useful point to bear in mind: What qualities has nature given us to counter that defect? As an antidote to unkindness it gave us kindness. And other qualities to balance other flaws." - Marcus Aurelius</p>
+<p>"Why do you want to read anyway – for the sake of amusement or mere erudition? Those are poor, fatuous pretexts.  Reading should serve the goal of attaining peace; if it doesn’t make you peaceful, what good is it?" - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
