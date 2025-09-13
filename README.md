@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Why do you want to read anyway – for the sake of amusement or mere erudition? Those are poor, fatuous pretexts.  Reading should serve the goal of attaining peace; if it doesn’t make you peaceful, what good is it?" - Epictetus</p>
+<p>"Pass then through this little space of time conformably to nature, and end thy journey in content, just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
