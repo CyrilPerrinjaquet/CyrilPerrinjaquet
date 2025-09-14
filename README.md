@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Pass then through this little space of time conformably to nature, and end thy journey in content, just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew." - Marcus Aurelius</p>
+<p>"But consider whether you may not get more help from the customary method than from that which is now commonly called a breviary, though in the good old days, when real Latin was spoken, it was called a summary." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
