@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"But consider whether you may not get more help from the customary method than from that which is now commonly called a breviary, though in the good old days, when real Latin was spoken, it was called a summary." - Seneca</p>
+<p>"A man who makes a decision without listening to both sides is unjust, even if his ruling is a fair one." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
