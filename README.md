@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A man who makes a decision without listening to both sides is unjust, even if his ruling is a fair one." - Seneca</p>
+<p>"I wish Lucilius you had been so happy as to have taken this resolution long ago I wish we had not deferred to think of an happy life till now we are come within light of death But let us delay no longer." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
