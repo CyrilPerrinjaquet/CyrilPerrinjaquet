@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The ambitious supposeth another man's act, praise and applause, to be his own happiness; the voluptuous his own sense and feeling; but he that is wise, his own action." - Marcus Aurelius</p>
+<p>"The primary indication, to my thinking, of a well-ordered mind is a man's ability to remain in one place and linger in his own company." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
