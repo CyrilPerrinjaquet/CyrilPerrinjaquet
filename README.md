@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Receive without conceit, release without struggle." - Marcus Aurelius</p>
+<p>"If you would not have a man flinch when the crisis comes, train him before it comes." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
