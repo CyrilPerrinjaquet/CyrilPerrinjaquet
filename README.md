@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you would not have a man flinch when the crisis comes, train him before it comes." - Seneca</p>
+<p>"There is nothing the wise man does reluctantly. He escapes necessity because he wills what necessity is going to force on him." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
