@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There is nothing the wise man does reluctantly. He escapes necessity because he wills what necessity is going to force on him." - Seneca</p>
+<p>"There is no great genius without a tincture of madness." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
