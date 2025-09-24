@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"There is no great genius without a tincture of madness." - Seneca</p>
+<p>"To what lengths would so precocious an ambition not go?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
