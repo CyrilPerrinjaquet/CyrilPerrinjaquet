@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"I shall expose and reopen all the wounds which have already healed." - Seneca</p>
+<p>"Kingdoms which act unjustly never last." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
