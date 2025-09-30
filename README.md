@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"And why is it so hard when things go against you? If it’s imposed by nature, accept it gladly and stop fighting it. And if not, work out what your own nature requires, and aim at that, even if it brings you no glory." - Marcus Aurelius</p>
+<p>"Be deaf to those who love you most of all; they pray for bad things with good intentions. ." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
