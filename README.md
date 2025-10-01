@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Be deaf to those who love you most of all; they pray for bad things with good intentions. ." - Seneca</p>
+<p>"Sometimes even to live is an act of courage.”   Anger." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
