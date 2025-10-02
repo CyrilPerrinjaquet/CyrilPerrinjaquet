@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Sometimes even to live is an act of courage.”   Anger." - Seneca</p>
+<p>"Whenever I wish to enjoy the quips of a clown, I am not compelled to hunt far; I can laugh at myself." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
