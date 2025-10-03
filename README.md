@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Whenever I wish to enjoy the quips of a clown, I am not compelled to hunt far; I can laugh at myself." - Seneca</p>
+<p>"Mankind is perpetually the victim of a pointless and futile martydom, fretting life away in fruitless worries though failure to realise what limit is set to acquisition and to the growth of genuine pleasure." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
