@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Mankind is perpetually the victim of a pointless and futile martydom, fretting life away in fruitless worries though failure to realise what limit is set to acquisition and to the growth of genuine pleasure." - Seneca</p>
+<p>"It is in our power to have no opinion about a thing and not to be disturbed in our soul; for things themselves have no natural power to form our judgments." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
