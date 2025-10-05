@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"It is in our power to have no opinion about a thing and not to be disturbed in our soul; for things themselves have no natural power to form our judgments." - Marcus Aurelius</p>
+<p>"Anger and the sorrow it produces are far more harmful than the things which make us angry." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
