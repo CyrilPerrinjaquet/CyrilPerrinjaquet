@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Anger and the sorrow it produces are far more harmful than the things which make us angry." - Marcus Aurelius</p>
+<p>"Unblest is he who thinks himself unblest." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
