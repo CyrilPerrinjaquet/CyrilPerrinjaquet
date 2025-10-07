@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Unblest is he who thinks himself unblest." - Seneca</p>
+<p>"What is death? Either a transition or an end. I am not afraid of coming to an end, this being the same as never having begun, nor of transition, for I shall never be in confinement quite so cramped anywhere else as I am here." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
