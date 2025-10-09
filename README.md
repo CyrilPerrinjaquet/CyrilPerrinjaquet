@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good." - Marcus Aurelius</p>
+<p>"If thou art pained by any external thing, it is not this that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
