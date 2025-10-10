@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If thou art pained by any external thing, it is not this that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now." - Marcus Aurelius</p>
+<p>"Not to waste time on nonsense. Not to be taken in by conjurors and hoodoo artists with their talk about incantations and exorcism and all the rest of it. Not to be obsessed with quail-fighting or other crazes like that." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
