@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The universe is change, and life mere opinion." - Marcus Aurelius</p>
+<p>"Begin at once to live, and count each separate day as a separate life." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
