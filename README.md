@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Begin at once to live, and count each separate day as a separate life." - Seneca</p>
+<p>"When jarred, unavoidably, by circumstance, revert at once to yourself, and don’t lose the rhythm more than you can help. You’ll have a better group of harmony if you keep on going back to it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
