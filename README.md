@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When jarred, unavoidably, by circumstance, revert at once to yourself, and don’t lose the rhythm more than you can help. You’ll have a better group of harmony if you keep on going back to it." - Marcus Aurelius</p>
+<p>"That which has died falls not out of the universe. If it stays here, it also changes here, and is dissolved into its proper parts, which are elements of the universe and of thyself. And these too change, and they murmur not." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
