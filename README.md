@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"That which has died falls not out of the universe. If it stays here, it also changes here, and is dissolved into its proper parts, which are elements of the universe and of thyself. And these too change, and they murmur not." - Marcus Aurelius</p>
+<p>"If you find something very difficult to achieve yourself, don’t imagine it impossible—for anything possible and proper for another person can be achieved as easily by you." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
