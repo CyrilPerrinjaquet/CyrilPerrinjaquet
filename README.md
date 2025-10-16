@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"If you find something very difficult to achieve yourself, don’t imagine it impossible—for anything possible and proper for another person can be achieved as easily by you." - Marcus Aurelius</p>
+<p>"Life is long and there is enough of it for satisfying personal accomplishments if we use our hours well." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
