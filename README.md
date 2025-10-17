@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Life is long and there is enough of it for satisfying personal accomplishments if we use our hours well." - Seneca</p>
+<p>"Because most of what we say and do is not essential. If you can eliminate it, you'll have more time and more tranquillity. Ask yourself at every moment, is this necessary…." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
