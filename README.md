@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The nearer a man comes to a calm mind, the closer he is to strength." - Marcus Aurelius</p>
+<p>"Do not run hither and thither and distract yourself by changing your abode; for such restlessness is the sign of a disordered spirit." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
