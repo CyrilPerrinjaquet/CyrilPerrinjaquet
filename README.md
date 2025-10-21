@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The happiness of your life depends upon the quality of your thoughts." - Marcus Aurelius</p>
+<p>"No man, if he be ungrateful, will be unhappy in the future. I allow him no day of grace; he is unhappy forthwith." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
