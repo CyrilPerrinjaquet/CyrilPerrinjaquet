@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"What difference does it make, after all, what your position in life is if you dislike it yourself?" - Seneca</p>
+<p>"For if we could be satisfied with anything, we should have been satisfied long ago." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
