@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For if we could be satisfied with anything, we should have been satisfied long ago." - Seneca</p>
+<p>"I can show you a philtre, compounded without drugs, herbs, or any witch's incantation: 'If you want to be loved, love." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
