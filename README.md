@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Every new beginning comes from other beginning’s end." - Seneca</p>
+<p>"Let your will to avoid have no concern with what is not in man's power; direct it only to things in man's power that are contrary to nature." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
