@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"A prudent governor will not roughly oppose even the superstitions of his people; and though he may wish they were wiser, he will know that he cannot make them so by offending their prejudices." - Marcus Aurelius</p>
+<p>"The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
