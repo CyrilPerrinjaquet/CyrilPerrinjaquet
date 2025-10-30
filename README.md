@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts." - Marcus Aurelius</p>
+<p>"Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
