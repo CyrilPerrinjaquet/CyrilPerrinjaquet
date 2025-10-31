@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum." - Epictetus</p>
+<p>"Don't seek to have events happen as you wish, but wish them to happen as they do happen, and all will be well with you." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
