@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Don't seek to have events happen as you wish, but wish them to happen as they do happen, and all will be well with you." - Epictetus</p>
+<p>"Things of themselves cannot touch the soul at all. They have no entry to the soul, and cannot turn or move it. The soul alone turns and moves itself, making all externals presented to it cohere with the judgements it thinks worthy of itself." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
