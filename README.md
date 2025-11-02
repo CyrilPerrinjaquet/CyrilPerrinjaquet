@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Things of themselves cannot touch the soul at all. They have no entry to the soul, and cannot turn or move it. The soul alone turns and moves itself, making all externals presented to it cohere with the judgements it thinks worthy of itself." - Marcus Aurelius</p>
+<p>"Not the “not” but the “not yet.”" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
