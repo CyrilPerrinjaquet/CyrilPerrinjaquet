@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Not the “not” but the “not yet.”" - Marcus Aurelius</p>
+<p>"Forget everything else. Keep hold of this alone and remember it: Each of us lives only now, this brief instant. The rest has been lived already, or is impossible to see." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
