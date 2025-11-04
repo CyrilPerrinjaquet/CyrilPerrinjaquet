@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Forget everything else. Keep hold of this alone and remember it: Each of us lives only now, this brief instant. The rest has been lived already, or is impossible to see." - Marcus Aurelius</p>
+<p>"But learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die. So many of the finest men have put aside all." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
