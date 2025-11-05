@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"But learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die. So many of the finest men have put aside all." - Seneca</p>
+<p>"Stop whatever you’re doing for a moment and ask yourself: Am I afraid of death because I won’t be able to do this anymore?" - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
