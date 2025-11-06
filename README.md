@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Stop whatever you’re doing for a moment and ask yourself: Am I afraid of death because I won’t be able to do this anymore?" - Marcus Aurelius</p>
+<p>"When arrogant hands once seize power, the ruler thinks authority resides in stubbornness." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
