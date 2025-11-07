@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When arrogant hands once seize power, the ruler thinks authority resides in stubbornness." - Seneca</p>
+<p>"Remember, however, that you are formed by nature to bear everything whose tolerability depends on your own opinion to make it so, by thinking that it is in your interest or duty to do so." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
