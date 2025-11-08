@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Remember, however, that you are formed by nature to bear everything whose tolerability depends on your own opinion to make it so, by thinking that it is in your interest or duty to do so." - Marcus Aurelius</p>
+<p>"You have power over your mind - not outside events. Realize this, and you will find strength. When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
