@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You have power over your mind - not outside events. Realize this, and you will find strength. When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love." - Marcus Aurelius</p>
+<p>"Don't hope that events will turn out the way you want, welcome events in whichever way they happen: this is the path to peace." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
