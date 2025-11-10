@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Don't hope that events will turn out the way you want, welcome events in whichever way they happen: this is the path to peace." - Epictetus</p>
+<p>"The way to peace is to be content with yourself, honor the light of reason within, live in harmony with others, and be grateful to the gods for the universe and your role in it." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
