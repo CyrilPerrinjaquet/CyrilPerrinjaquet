@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The way to peace is to be content with yourself, honor the light of reason within, live in harmony with others, and be grateful to the gods for the universe and your role in it." - Marcus Aurelius</p>
+<p>"It does not make any difference what a man say; what matters is how he feels, and not how he feels on one particular day but how he feels at all times." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
