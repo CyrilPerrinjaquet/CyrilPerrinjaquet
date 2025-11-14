@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"For many men, the acquisition of wealth does not end their troubles, it only changes them." - Seneca</p>
+<p>"This wretched body, the chain and prison of the soul, is tossed hither and thither; upon it punishment and pillage and disease wreak havoc: but the soul itself is holy and eternal, and it cannot be assailed with violence." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
