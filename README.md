@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"This wretched body, the chain and prison of the soul, is tossed hither and thither; upon it punishment and pillage and disease wreak havoc: but the soul itself is holy and eternal, and it cannot be assailed with violence." - Seneca</p>
+<p>"In no great while you will be no one and nowhere, and nothing that you now behold will be in existence, nor will anyone now alive. For it is in the nature of all things to change and alter and perish, so that others may arise in their turn." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
