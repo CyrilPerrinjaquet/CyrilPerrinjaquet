@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"In no great while you will be no one and nowhere, and nothing that you now behold will be in existence, nor will anyone now alive. For it is in the nature of all things to change and alter and perish, so that others may arise in their turn." - Marcus Aurelius</p>
+<p>"Anything in any way beautiful derives its beauty from itself and asks nothing beyond itself. Praise is no part of it, for nothing is made worse or better by praise." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
