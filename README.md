@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Anything in any way beautiful derives its beauty from itself and asks nothing beyond itself. Praise is no part of it, for nothing is made worse or better by praise." - Marcus Aurelius</p>
+<p>"Confine yourself to the present." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
