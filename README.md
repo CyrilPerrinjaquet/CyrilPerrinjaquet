@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Confine yourself to the present." - Marcus Aurelius</p>
+<p>"Fortune recently took away her mother, but your love will mean that she will only grieve over her mother’s loss but not suffer for it." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
