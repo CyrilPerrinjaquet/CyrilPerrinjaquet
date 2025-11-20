@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"The ruler must be a philosopher as well as a king; and he must govern unwillingly, because he loves philosophy better than dominion." - Marcus Aurelius</p>
+<p>"Let silence be your general rule; or say only what is necessary and in few words." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
