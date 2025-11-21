@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Let silence be your general rule; or say only what is necessary and in few words." - Epictetus</p>
+<p>"Asked, Who is the rich man? Epictetus replied, He who is content." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
