@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Asked, Who is the rich man? Epictetus replied, He who is content." - Epictetus</p>
+<p>"He is so rich, he has no room to shit." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
