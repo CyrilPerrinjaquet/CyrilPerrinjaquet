@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Time heals what reason cannot." - Seneca</p>
+<p>"Thus the Stoics arrive at their main thesis. Virtue alone is admirable, virtue is absolutely self-sufficient; the good man needs no help from circumstances, neither sickness nor adversity can harm him; he is a king, a god among men." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
