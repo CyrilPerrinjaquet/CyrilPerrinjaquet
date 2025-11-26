@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Do not try to seem wise to others." - Epictetus</p>
+<p>"You can tell the character of every man when you see how he receives praise.”   Difficult." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
