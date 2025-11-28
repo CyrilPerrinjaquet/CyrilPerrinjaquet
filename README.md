@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"You can tell the character of every man when you see how he receives praise.”   Difficult." - Seneca</p>
+<p>"All that remains of our existence is not actually life but merely time." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
