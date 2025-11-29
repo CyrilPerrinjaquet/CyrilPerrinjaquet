@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"All that remains of our existence is not actually life but merely time." - Seneca</p>
+<p>"Either teach them better if it be in thy power; or if it be not, remember that for this use, to bear with them patiently, was mildness and goodness granted unto thee." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
