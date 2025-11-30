@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Either teach them better if it be in thy power; or if it be not, remember that for this use, to bear with them patiently, was mildness and goodness granted unto thee." - Marcus Aurelius</p>
+<p>"And he cares nothing for their praise—men who can’t even meet their own standards." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
