@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"And he cares nothing for their praise—men who can’t even meet their own standards." - Marcus Aurelius</p>
+<p>"Life is slavery if the courage to die is absent." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
