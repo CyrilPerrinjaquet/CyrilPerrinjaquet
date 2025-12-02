@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"Life is slavery if the courage to die is absent." - Seneca</p>
+<p>"When something happens, the only thing in your power is your attitude toward it; you can either accept it or resent it." - Epictetus</p>
 <!-- STOIC_QUOTE_END -->
