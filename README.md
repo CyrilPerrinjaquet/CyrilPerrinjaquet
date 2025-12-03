@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"When something happens, the only thing in your power is your attitude toward it; you can either accept it or resent it." - Epictetus</p>
+<p>"The primary indication, to my thinking, of a well-ordered mind is a man's ability to remain in one place and linger in his own company." - Seneca</p>
 <!-- STOIC_QUOTE_END -->
