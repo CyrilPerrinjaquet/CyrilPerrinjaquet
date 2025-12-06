@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"We do not receive a life that is short, but rather we make it so; we are not beggar in it, but spendthrifts." - Seneca</p>
+<p>"It is royal to do good and to be abused." - Marcus Aurelius</p>
 <!-- STOIC_QUOTE_END -->
