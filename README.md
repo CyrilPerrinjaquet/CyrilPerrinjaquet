@@ -41,5 +41,5 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 <h2>Daily Stoic Quote</h2>
 
 <!-- STOIC_QUOTE -->
-<p>"I was once a fortunate man but at some point fortune abandoned me.  But true good fortune is what you make for yourself. Good fortune: good character, good intentions, and good actions." - Marcus Aurelius</p>
+<p>"Who can doubt, my dear Lucilius, that life is the gift of the immortal gods, but that living well is the gift of philosophy?" - Seneca</p>
 <!-- STOIC_QUOTE_END -->
