@@ -34,6 +34,6 @@ Je m'appelle Cyril, apprenti en développement d'applications et je suis aussi u
 
 - 🔭 I’m currently working on **my company app**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Swift UI**
 
 - 💬 Ask me about **Faith and Sports**
